@@ -15,3 +15,7 @@ Next, take the `custom_mappings` folder inside `geyser_assets` and replace it wi
 Restart your server if its on, and hopefully it should work next time you join.<br>
 
 Completely unrelated side note, I recommend using [Geyser Extras](https://modrinth.com/plugin/geyserextras) on your server as well as Geyser (and Floodgate). This Plugin can make Bedrock's 1.9 PVP much better, Add the sweeping attack for swords for Bedrock players, and downloads [GeyserOptionalPack](https://geysermc.org/wiki/other/geyseroptionalpack/) automatically.
+
+# Note about testing newer packs
+If you experience visual bugs or anything broken, Try loggin out of your server, on the Bedrock client going into `Settings > Storage > Cached Data` and deleting the crystalized pack from there, it will redownload and update when you rejoin. The reason why this happens is because I dont update the pack version in `manifest.json` often, so bedrock thinks an old version and the newer version are the same thing and it doesn't update it client-side. <br>
+Also Try Restarting your server if you change any Geyser custom mappings, do not `/geyser reload`.

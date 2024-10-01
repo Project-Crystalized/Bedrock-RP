@@ -1,0 +1,13 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.custommodel.2x": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 2
+                }
+            }
+        }
+    }
+}

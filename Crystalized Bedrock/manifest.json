@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "crystalized.rp.description",
+        "name": "crystalized.rp.name",
+        "uuid": "95a0c897-f905-408a-a1fd-c0f53bd3b6f1",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "crystalized.rp.description",
+            "type": "resources",
+            "uuid": "5fd41a8a-1367-4a9c-9d8c-eadb1c22c821",
+            "version": [1, 0, 0]
+        }
+    ]
+}

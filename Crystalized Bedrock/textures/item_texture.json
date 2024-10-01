@@ -1,0 +1,117 @@
+{
+  "resource_pack_name": "crystalized",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "placeholder": {
+      "textures": "textures/crystalized/placeholder"
+    },
+    "slime_sword": {
+      "textures": "textures/crystalized/item/slime_sword"
+    },
+    "pufferfish_sword": {
+      "textures": "textures/crystalized/item/pufferfish_sword"
+    },
+   "explosive_bow": {
+      "textures": "textures/crystalized/item/bow/explosive_bow"
+    },
+   "marksman_bow": {
+      "textures": "textures/crystalized/item/bow/marksman_bow"
+    },
+   "ricochet_bow": {
+      "textures": "textures/crystalized/item/bow/ricochet_bow"
+    },
+   "multi_crossbow": {
+      "textures": "textures/crystalized/item/crossbow/multi_crossbow_standby"
+    },
+   "quick_charge_crossbow": {
+      "textures": "textures/crystalized/item/crossbow/quick_charge_crossbow_standby"
+    },
+   "charged_crossbow": {
+      "textures": "textures/crystalized/item/crossbow/charged_crossbow_standby"
+    },
+   "boost_orb": {
+      "textures": "textures/crystalized/item/orb/boost_orb"
+    },
+   "bridge_orb": {
+      "textures": "textures/crystalized/item/orb/bridge_orb"
+    },
+   "explosive_orb": {
+      "textures": "textures/crystalized/item/orb/explosive_orb"
+    },
+   "grappling_orb": {
+      "textures": "textures/crystalized/item/orb/grappling_orb"
+    },
+   "health_orb": {
+      "textures": "textures/crystalized/item/orb/health_orb"
+    },
+   "knockout_orb": {
+      "textures": "textures/crystalized/item/orb/knockout_orb"
+    },
+   "poison_orb": {
+      "textures": "textures/crystalized/item/orb/poison_orb"
+    },
+   "winged_orb": {
+      "textures": "textures/crystalized/item/orb/winged_orb"
+    },
+   "antiair_totem": {
+      "textures": "textures/crystalized/item/totem/antiair_totem"
+    },
+   "cloud_totem": {
+      "textures": "textures/crystalized/item/totem/cloud_totem"
+    },
+   "defense_totem": {
+      "textures": "textures/crystalized/item/totem/defense_totem"
+    },
+   "healing_totem": {
+      "textures": "textures/crystalized/item/totem/healing_totem"
+    },
+   "launch_totem": {
+      "textures": "textures/crystalized/item/totem/launch_totem"
+    },
+   "slime_totem": {
+      "textures": "textures/crystalized/item/totem/slime_totem"
+    },
+   "nexus_blue": {
+      "textures": "textures/crystalized/block/nexus_blue_display"
+    },
+   "nexus_cyan": {
+      "textures": "textures/crystalized/block/nexus_cyan_display"
+    },
+   "nexus_green": {
+      "textures": "textures/crystalized/block/nexus_green_display"
+    },
+   "nexus_lemon": {
+      "textures": "textures/crystalized/block/nexus_lemon"
+    },
+   "nexus_lime": {
+      "textures": "textures/crystalized/block/nexus_lime_display"
+    },
+   "nexus_magenta": {
+      "textures": "textures/crystalized/block/nexus_magenta_display"
+    },
+   "nexus_orange": {
+      "textures": "textures/crystalized/block/nexus_orange"
+    },
+   "nexus_peach": {
+      "textures": "textures/crystalized/block/nexus_peach"
+    },
+   "nexus_purple": {
+      "textures": "textures/crystalized/block/nexus_purple"
+    },
+   "nexus_red": {
+      "textures": "textures/crystalized/block/nexus_red_display"
+    },
+   "nexus_white": {
+      "textures": "textures/crystalized/block/nexus_white_display"
+    },
+   "nexus_yellow": {
+      "textures": "textures/crystalized/block/nexus_yellow_display"
+    },
+   "dragon_arrow": {
+      "textures": "textures/crystalized/item/arrow/arrow-dragon"
+    },
+   "explosive_arrow": {
+      "textures": "textures/crystalized/item/arrow/arrow-explosive"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"crystalized:effect.ally_kill": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ally_kill"]
+		},
+		"crystalized:effect.countdown": {
+			"category": "ui",
+			"sounds": ["sounds/effects/countdown"]
+		},
+		"crystalized:effect.countdown_end": {
+			"category": "ui",
+			"sounds": ["sounds/effects/countdown_end"]
+		},
+		"crystalized:effect.countdown_alt": {
+			"category": "ui",
+			"sounds": ["sounds/effects/countdown_alt"]
+		},
+		"crystalized:effect.kill_streak_1": {
+			"category": "ui",
+			"sounds": ["sounds/effects/kill_streak_1"]
+		},
+		"crystalized:effect.kill_streak_2": {
+			"category": "ui",
+			"sounds": ["sounds/effects/kill_streak_2"]
+		},
+		"crystalized:effect.kill_streak_3": {
+			"category": "ui",
+			"sounds": ["sounds/effects/kill_streak_3"]
+		},
+		"crystalized:effect.kill_streak_4": {
+			"category": "ui",
+			"sounds": ["sounds/effects/kill_streak_4"]
+		},
+		"crystalized:effect.kill_streak_5": {
+			"category": "ui",
+			"sounds": ["sounds/effects/kill_streak_5"]
+		}
+	}
+}

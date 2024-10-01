@@ -1,0 +1,13 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:clock": [
+			{
+				"name":"clock1",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 1
+			}
+		]
+	}
+}

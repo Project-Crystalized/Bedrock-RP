@@ -1,0 +1,97 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"name":"charcoal1",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 1
+			},
+			{
+				"name":"charcoal2",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 2
+			},
+			{
+				"name":"charcoal3",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 3
+			},
+			{
+				"name":"charcoal4",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 4
+			},
+			{
+				"name":"charcoal5",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 5
+			},
+			{
+				"name":"charcoal6",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 6
+			},
+			{
+				"name":"charcoal7",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 7
+			},
+			{
+				"name":"charcoal8",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 8
+			},
+			{
+				"name":"charcoal9",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 9
+			},
+			{
+				"name":"charcoal10",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 10
+			},
+			{
+				"name":"charcoal11",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 11
+			},
+			{
+				"name":"charcoal12",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 12
+			},
+			{
+				"name":"charcoal13",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 13
+			},
+			{
+				"name":"charcoal14",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 14
+			},
+			{
+				"name":"charcoal15",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 15
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:iron_sword": [
+			{
+				"name":"ironsword1",
+				"allow_offhand": false,
+				"icon":"slime_sword",
+				"custom_model_data": 1
+			},
+			{
+				"name":"ironsword2",
+				"allow_offhand": false,
+				"icon":"pufferfish_sword",
+				"custom_model_data": 2
+			}
+		]
+	}
+}

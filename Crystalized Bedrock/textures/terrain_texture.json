@@ -1,0 +1,44 @@
+{
+	"resource_pack_name": "crystalized",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"nexus_blue": {
+			"textures": "textures/crystalized/block/nexus_blue"
+		},
+		"nexus_cyan": {
+			"textures": "textures/crystalized/block/nexus_cyan"
+		},
+		"nexus_green": {
+			"textures": "textures/crystalized/block/nexus_green"
+		},
+		"nexus_lemon": {
+			"textures": "textures/crystalized/block/nexus_lemon"
+		},
+		"nexus_lime": {
+			"textures": "textures/crystalized/block/nexus_lime"
+		},
+		"nexus_magenta": {
+			"textures": "textures/crystalized/block/nexus_magenta"
+		},
+		"nexus_orange": {
+			"textures": "textures/crystalized/block/nexus_orange"
+		},
+		"nexus_peach": {
+			"textures": "textures/crystalized/block/nexus_peach"
+		},
+		"nexus_purple": {
+			"textures": "textures/crystalized/block/nexus_purple"
+		},
+		"nexus_red": {
+			"textures": "textures/crystalized/block/nexus_red"
+		},
+		"nexus_white": {
+			"textures": "textures/crystalized/block/nexus_white"
+		},
+		"nexus_yellow": {
+			"textures": "textures/crystalized/block/nexus_yellow"
+		}
+	}
+}

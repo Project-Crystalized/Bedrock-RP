@@ -1,0 +1,91 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:coal": [
+			{
+				"name":"coal1",
+				"allow_offhand": false,
+				"icon":"boost_orb",
+				"custom_model_data": 1
+			},
+			{
+				"name":"coal2",
+				"allow_offhand": false,
+				"icon":"bridge_orb",
+				"custom_model_data": 2
+			},
+			{
+				"name":"coal3",
+				"allow_offhand": false,
+				"icon":"explosive_orb",
+				"custom_model_data": 3
+			},
+			{
+				"name":"coal4",
+				"allow_offhand": false,
+				"icon":"grappling_orb",
+				"custom_model_data": 4
+			},
+			{
+				"name":"coal5",
+				"allow_offhand": false,
+				"icon":"health_orb",
+				"custom_model_data": 5
+			},
+			{
+				"name":"coal6",
+				"allow_offhand": false,
+				"icon":"knockout_orb",
+				"custom_model_data": 6
+			},
+			{
+				"name":"coal7",
+				"allow_offhand": false,
+				"icon":"poison_orb",
+				"custom_model_data": 7
+			},
+			{
+				"name":"coal8",
+				"allow_offhand": false,
+				"icon":"winged_orb",
+				"custom_model_data": 8
+			},
+			{
+				"name":"coal9",
+				"allow_offhand": false,
+				"icon":"antiair_totem",
+				"custom_model_data": 9
+			},
+			{
+				"name":"coal10",
+				"allow_offhand": false,
+				"icon":"cloud_totem",
+				"custom_model_data": 10
+			},
+			{
+				"name":"coal11",
+				"allow_offhand": false,
+				"icon":"defense_totem",
+				"custom_model_data": 11
+			},
+			{
+				"name":"coal12",
+				"allow_offhand": false,
+				"icon":"healing_totem",
+				"custom_model_data": 12
+			},
+			{
+				"name":"coal13",
+				"allow_offhand": false,
+				"icon":"launch_totem",
+				"custom_model_data": 13
+			},
+			{
+				"name":"coal14",
+				"allow_offhand": false,
+				"icon":"slime_totem",
+				"custom_model_data": 14
+			}
+		]
+	}
+}

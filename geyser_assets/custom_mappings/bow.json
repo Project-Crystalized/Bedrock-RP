@@ -1,0 +1,25 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:bow": [
+			{
+				"name":"marksman_bow",
+				"allow_offhand": false,
+				"icon":"marksman_bow",
+				"custom_model_data": 1
+			},
+			{
+				"name":"explosive_bow",
+				"allow_offhand": false,
+				"icon":"explosive_bow",
+				"custom_model_data": 2
+			},
+			{
+				"name":"ricochet_bow",
+				"allow_offhand": false,
+				"icon":"ricochet_bow",
+				"custom_model_data": 3
+			}
+		]
+	}
+}

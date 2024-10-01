@@ -1,0 +1,15 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.custommodel.couch": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 2,
+                    "rotation": [0, 180, 0],
+                    "position": [-16, 7.5, 54]
+                }
+            }
+        }
+    }
+}

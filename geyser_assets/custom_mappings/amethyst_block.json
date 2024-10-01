@@ -1,0 +1,79 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:amethyst_block": [
+			{
+				"name":"amethystblock1",
+				"allow_offhand": false,
+				"icon":"nexus_blue",
+				"custom_model_data": 1
+			},
+			{
+				"name":"amethystblock2",
+				"allow_offhand": false,
+				"icon":"nexus_cyan",
+				"custom_model_data": 2
+			},
+			{
+				"name":"amethystblock3",
+				"allow_offhand": false,
+				"icon":"nexus_green",
+				"custom_model_data": 3
+			},
+			{
+				"name":"amethystblock4",
+				"allow_offhand": false,
+				"icon":"nexus_lemon",
+				"custom_model_data": 4
+			},
+			{
+				"name":"amethystblock5",
+				"allow_offhand": false,
+				"icon":"nexus_lime",
+				"custom_model_data": 5
+			},
+			{
+				"name":"amethystblock6",
+				"allow_offhand": false,
+				"icon":"nexus_magenta",
+				"custom_model_data": 6
+			},
+			{
+				"name":"amethystblock7",
+				"allow_offhand": false,
+				"icon":"nexus_orange",
+				"custom_model_data": 7
+			},
+			{
+				"name":"amethystblock8",
+				"allow_offhand": false,
+				"icon":"nexus_peach",
+				"custom_model_data": 8
+			},
+			{
+				"name":"amethystblock9",
+				"allow_offhand": false,
+				"icon":"nexus_purple",
+				"custom_model_data": 9
+			},
+			{
+				"name":"amethystblock10",
+				"allow_offhand": false,
+				"icon":"nexus_red",
+				"custom_model_data": 10
+			},
+			{
+				"name":"amethystblock11",
+				"allow_offhand": false,
+				"icon":"nexus_white",
+				"custom_model_data": 11
+			},
+			{
+				"name":"amethystblock12",
+				"allow_offhand": false,
+				"icon":"nexus_yellow",
+				"custom_model_data": 12
+			}
+		]
+	}
+}

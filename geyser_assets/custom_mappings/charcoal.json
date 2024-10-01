@@ -91,6 +91,12 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 15
+			},
+			{
+				"name":"charcoal16",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 16
 			}
 		]
 	}

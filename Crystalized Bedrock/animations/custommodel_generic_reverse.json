@@ -1,11 +1,13 @@
 {
     "format_version": "1.8.0",
     "animations": {
-        "animation.custommodel.2x": {
+        "animation.custommodel.generic_reverse": {
             "loop": true,
             "bones": {
                 "model": {
-                    "scale": 2
+                    "scale": 1,
+                    "rotation": [0, 180, 0],
+                    "position": [-16, 0, 16]
                 }
             }
         }

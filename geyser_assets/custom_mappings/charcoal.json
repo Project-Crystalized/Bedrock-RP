@@ -97,6 +97,24 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 16
+			},
+			{
+				"name":"charcoal17",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 17
+			},
+			{
+				"name":"charcoal18",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 18
+			},
+			{
+				"name":"charcoal19",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 19
 			}
 		]
 	}

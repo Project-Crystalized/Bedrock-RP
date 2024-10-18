@@ -1,0 +1,33 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.custommodel.miteda_suck.head": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1
+                }
+            }
+        },
+        "animation.custommodel.miteda_suck.thirdperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "position": [0, 14, -4],
+                    "rotation": [90, 0, 0]
+                }
+            }
+        },
+        "animation.custommodel.miteda_suck.firstperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1.5,
+                    "position": [0, 14, 8],
+                    "rotation": [90, 60, -40]
+                }
+            }
+        }
+    }
+}

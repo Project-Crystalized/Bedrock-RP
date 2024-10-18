@@ -81,7 +81,7 @@
       "textures": "textures/crystalized/block/nexus_green_display"
     },
    "nexus_lemon": {
-      "textures": "textures/crystalized/block/nexus_lemon"
+      "textures": "textures/crystalized/block/nexus_lemon_display"
     },
    "nexus_lime": {
       "textures": "textures/crystalized/block/nexus_lime_display"
@@ -90,13 +90,13 @@
       "textures": "textures/crystalized/block/nexus_magenta_display"
     },
    "nexus_orange": {
-      "textures": "textures/crystalized/block/nexus_orange"
+      "textures": "textures/crystalized/block/nexus_orange_display"
     },
    "nexus_peach": {
-      "textures": "textures/crystalized/block/nexus_peach"
+      "textures": "textures/crystalized/block/nexus_peach_display"
     },
    "nexus_purple": {
-      "textures": "textures/crystalized/block/nexus_purple"
+      "textures": "textures/crystalized/block/nexus_purple_display"
     },
    "nexus_red": {
       "textures": "textures/crystalized/block/nexus_red_display"
@@ -112,6 +112,9 @@
     },
    "explosive_arrow": {
       "textures": "textures/crystalized/item/arrow/arrow-explosive"
+    },
+   "custommodel.miteda_suck": {
+      "textures": "textures/crystalized/custommodel/handheld/miteda_suck_display"
     }
   }
 }

@@ -1,0 +1,25 @@
+{
+	"format_version": 1,
+	"items": {
+		"minecraft:raw_iron": [
+			{
+				"name":"raw_iron1",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 1
+			},
+			{
+				"name":"raw_iron2",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 2
+			},
+			{
+				"name":"raw_iron3",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 3
+			}
+		]
+	}
+}

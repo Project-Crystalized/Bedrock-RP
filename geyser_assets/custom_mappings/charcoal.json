@@ -115,6 +115,60 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 19
+			},
+			{
+				"name":"charcoal20",
+				"allow_offhand": false,
+				"icon":"custommodel.miteda_suck",
+				"custom_model_data": 20
+			},
+			{
+				"name":"charcoal21",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 21
+			},
+			{
+				"name":"charcoal22",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 22
+			},
+			{
+				"name":"charcoal23",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 23
+			},
+			{
+				"name":"charcoal24",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 24
+			},
+			{
+				"name":"charcoal25",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 25
+			},
+			{
+				"name":"charcoal26",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 26
+			},
+			{
+				"name":"charcoal27",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 27
+			},
+			{
+				"name":"charcoal28",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 28
 			}
 		]
 	}

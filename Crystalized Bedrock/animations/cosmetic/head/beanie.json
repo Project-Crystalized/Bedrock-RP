@@ -1,0 +1,14 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.cosmetic.head.beanie.head": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 0.7,
+                    "position": [-5, 30, 3]
+                }
+            }
+        }
+    }
+}

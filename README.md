@@ -1,6 +1,6 @@
 Crystalized Bedrock/Geyser Resource Pack!
 
-Contributers for the assets used in this pack can be found [here](https://github.com/Project-Crystalized/Java-RP).
+Contributers for the assets used in this pack and the list of custom unicodes can be found [here](https://github.com/Project-Crystalized/Java-RP).
 
 # Bedrock-Specific Contributers
 TotallyNoCallum - Main Developer

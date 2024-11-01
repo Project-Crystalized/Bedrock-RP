@@ -85,6 +85,12 @@
 				"allow_offhand": false,
 				"icon":"slime_totem",
 				"custom_model_data": 14
+			},
+			{
+				"name":"coal15",
+				"allow_offhand": false,
+				"icon":"hotbar_replay",
+				"custom_model_data": 15
 			}
 		]
 	}

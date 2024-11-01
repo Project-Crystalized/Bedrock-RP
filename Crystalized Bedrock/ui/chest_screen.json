@@ -14,27 +14,27 @@
     "type": "image",
     "layer": 10,
     "size": [256, 256],
-    "offset": [ 40, 17],
+    "offset": [ 40, -16],
     "$localtitle": "$container_title"
   },
 
   // Individual backgound implementations
-  "callum_ia_lsshop@ofunnys_chest_panel": {
+  "callum_lsshop@ofunnys_chest_panel": {
     "texture":"textures/ui/inventory/ia/ls_shop",
     "visible":"(not ($localtitle - 'ꀁ' = $localtitle))"
   },
 
-  "ofunnys_ia_crafting@ofunnys_chest_panel": {
-    "texture":"textures/ui/inventory/ia/ia_crafting",
-    "visible":"(not ($localtitle - '' = $localtitle))"
+  "callum_shardcorenexus3_home@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_home",
+    "visible":"(not ($localtitle - 'ꀂ' = $localtitle))"
   },
 
   // Just a simple panel to collect all individual panels at once
   "ofunnys_chest_panels": {
     "type": "panel",
     "controls": [
-      { "callum_ia_lsshop@callum_ia_lsshop": {} },
-      { "ofunnys_ia_crafting@ofunnys_ia_crafting": {} }
+      { "callum_lsshop@callum_lsshop": {} },
+      { "callum_shardcorenexus3_home@callum_shardcorenexus3_home": {} }
     ]
   },
 

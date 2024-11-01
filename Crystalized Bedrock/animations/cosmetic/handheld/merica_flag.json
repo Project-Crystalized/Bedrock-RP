@@ -14,7 +14,7 @@
             "bones": {
                 "model": {
                     "scale": 1,
-                    "position": [0, 14, 8],
+                    "position": [0, 9, -5],
                     "rotation": [90, 0, 180]
                 }
             }

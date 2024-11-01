@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.custommodel.bomb_toaster.thirdperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 0.75,
+                    "position": [-0.5, 15, 6],
+                    "rotation": [90, 0, 0]
+                }
+            }
+        },
+        "animation.custommodel.bomb_toaster.firstperson_main_hand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1.25,
+                    "position": [10, 24, 6],
+                    "rotation": [90, 60, -40]
+                }
+            }
+        }
+    }
+}

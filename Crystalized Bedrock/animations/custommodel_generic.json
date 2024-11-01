@@ -8,6 +8,26 @@
                     "scale": 1
                 }
             }
+        },
+        "animation.custommodel.generic_reverse": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "rotation": [0, 180, 0],
+                    "position": [-16, 0, 16]
+                }
+            }
+        },
+        "animation.custommodel.generic_2x": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 2,
+                    "rotation": [0, 180, 0],
+                    "position": [-24, -0.5, 24]
+                }
+            }
         }
     }
 }

@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"invisible": {
+			"textures": "textures/crystalized/invisible"
+		},
 		"nexus_blue": {
 			"textures": "textures/crystalized/block/nexus_blue"
 		},

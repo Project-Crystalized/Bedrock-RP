@@ -1,13 +1,12 @@
 {
     "format_version": "1.8.0",
     "animations": {
-        "animation.custommodel.generic_reverse": {
+        "animation.cosmetic.head.fox_beret.head": {
             "loop": true,
             "bones": {
                 "model": {
-                    "scale": 1,
-                    "rotation": [0, 180, 0],
-                    "position": [-16, 0, 16]
+                    "scale": 0.5,
+                    "position": [2, 28, 0.5]
                 }
             }
         }

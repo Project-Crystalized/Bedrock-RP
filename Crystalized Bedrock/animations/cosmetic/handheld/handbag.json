@@ -1,0 +1,35 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.cosmetic.handheld.handbag.thirdperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "position": [-1.5, 15.5, -1],
+                    "rotation": [0, 180, 0]
+                }
+            }
+        },
+        "animation.cosmetic.handheld.handbag.thirdperson_offhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "position": [1.5, 15.5, -1],
+                    "rotation": [0, 0, 0]
+                }
+            }
+        },
+        "animation.cosmetic.handheld.handbag.firstperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 3,
+                    "position": [0, -8, 8],
+                    "rotation": [90, 60, -45]
+                }
+            }
+        }
+    }
+}

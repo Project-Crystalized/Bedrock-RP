@@ -169,6 +169,42 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 28
+			},
+			{
+				"name":"charcoal29",
+				"allow_offhand": false,
+				"icon":"custommodel.bomb_toaster",
+				"custom_model_data": 29
+			},
+			{
+				"name":"charcoal30",
+				"allow_offhand": false,
+				"icon":"custommodel.bomb_toaster",
+				"custom_model_data": 30
+			},
+			{
+				"name":"charcoal31",
+				"allow_offhand": false,
+				"icon":"custommodel.bomb_toaster",
+				"custom_model_data": 31
+			},
+			{
+				"name":"charcoal32",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 32
+			},
+			{
+				"name":"charcoal33",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 33
+			},
+			{
+				"name":"charcoal34",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 34
 			}
 		]
 	}

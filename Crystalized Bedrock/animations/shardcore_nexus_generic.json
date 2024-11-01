@@ -1,0 +1,35 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.shardcorenexus.generic.firstperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "position": [0, 7, 0],
+                    "rotation": [110, 50, 10]
+                }
+            }
+        },
+        "animation.shardcorenexus.generic.thirdperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 0.5,
+                    "position": [3, 12.5, -1],
+                    "rotation": [270, 90, 0]
+                }
+            }
+        },
+        "animation.shardcorenexus_open.generic.thirdperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 0.5,
+                    "position": [7, 17, -5],
+                    "rotation": [15, 0, 0]
+                }
+            }
+        }
+    }
+}

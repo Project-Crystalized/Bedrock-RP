@@ -1,0 +1,18 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:green_stained_glass_pane": {
+			"name": "green_stained_glass_pane",
+			"display_name": "Custom Granite Wall",
+			"geometry": "geometry.customblock",
+			"material_instances": {
+				"*": {
+					"texture": "invisible",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			}
+		}
+	}
+}

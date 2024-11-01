@@ -5,6 +5,9 @@
     "placeholder": {
       "textures": "textures/crystalized/placeholder"
     },
+    "invisible": {
+      "textures": "textures/crystalized/invisible"
+    },
     "slime_sword": {
       "textures": "textures/crystalized/item/slime_sword"
     },
@@ -115,6 +118,63 @@
     },
    "custommodel.miteda_suck": {
       "textures": "textures/crystalized/custommodel/handheld/miteda_suck_display"
+    },
+   "custommodel.bomb_toaster": {
+      "textures": "textures/crystalized/custommodel/bomb/toaster_display"
+    },
+   "cosmetic.head.merica": {
+      "textures": "textures/crystalized/cosmetic/head/merica_display"
+    },
+   "cosmetic.handheld.merica_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/merica_flag_display"
+    },
+   "cosmetic.head.beanie": {
+      "textures": "textures/crystalized/cosmetic/head/beanie_display"
+    },
+   "cosmetic.head.fox_beret": {
+      "textures": "textures/crystalized/cosmetic/head/fox_beret_display"
+    },
+   "cosmetic.handheld.handbag": {
+      "textures": "textures/crystalized/cosmetic/handheld/handbag_display"
+    },
+   "shardcorenexus3_blue": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue"
+    },
+   "shardcorenexus3_blue_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue_attention"
+    },
+   "shardcorenexus3_gray": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray"
+    },
+   "shardcorenexus3_gray_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray_attention"
+    },
+   "shardcorenexus3_purple": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple"
+    },
+   "shardcorenexus3_purple_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple_attention"
+    },
+   "shardcorenexus3_augustify": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify"
+    },
+   "shardcorenexus3_augustify_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify_attention"
+    },
+   "shardcorenexus3_abby1": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1"
+    },
+   "shardcorenexus3_abby1_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1_attention"
+    },
+   "shardcorenexus3_shadow1": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1"
+    },
+   "shardcorenexus3_shadow1_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1_attention"
+    },
+    "hotbar_replay": {
+      "textures": "textures/crystalized/item/hotbar_replay"
     }
   }
 }

@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.custommodel.wamdonalds",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "model",
+					"pivot": [0, 13, 7.5],
+					"cubes": [
+						{
+							"origin": [-24, -2, 7.5],
+							"size": [48, 34, 0],
+							"uv": {
+								"north": {"uv": [20, 68], "uv_size": [48, -34]},
+								"east": {"uv": [0, 0], "uv_size": [0, 34]},
+								"south": {"uv": [20, 68], "uv_size": [48, -34]},
+								"west": {"uv": [0, 0], "uv_size": [0, 34]},
+								"up": {"uv": [0, 0], "uv_size": [48, 0]},
+								"down": {"uv": [0, 0], "uv_size": [48, 0]}
+							}
+						}
+					]
+				}
+			],
+			"item_display_transforms": {
+				"head": {
+					"rotation": [0, 0, 0],
+					"translation": [0, -30.425, 0],
+					"scale": [1.6, 1.6, 1.6],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				}
+			}
+		}
+	]
+}

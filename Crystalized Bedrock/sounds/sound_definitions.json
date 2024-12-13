@@ -36,6 +36,14 @@
 		"crystalized:effect.kill_streak_5": {
 			"category": "ui",
 			"sounds": ["sounds/effects/kill_streak_5"]
+		},
+		"crystalized:effect.knockoff_countdown": {
+			"category": "ui",
+			"sounds": ["sounds/effects/knockoff_countdown"]
+		},
+		"crystalized:effect.nexus_crystal_destroyed": {
+			"category": "ui",
+			"sounds": ["sounds/effects/nexus_crystal_destroyed"]
 		}
 	}
 }

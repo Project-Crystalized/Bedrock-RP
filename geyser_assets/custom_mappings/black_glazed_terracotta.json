@@ -1,0 +1,37 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:black_glazed_terracotta": {
+			"name": "crystals4",
+			"display_name": "crystals4",
+			"state_overrides": {
+				"facing=east": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "node_weak",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=north": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "node_strong",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

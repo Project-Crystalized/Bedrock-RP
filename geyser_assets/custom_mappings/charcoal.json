@@ -205,6 +205,12 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 34
+			},
+			{
+				"name":"charcoal35",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 35
 			}
 		]
 	}

@@ -42,6 +42,12 @@
 		},
 		"nexus_yellow": {
 			"textures": "textures/crystalized/block/nexus_yellow"
+		},
+		"node_strong": {
+			"textures": "textures/crystalized/block/node_strong"
+		},
+		"node_weak": {
+			"textures": "textures/crystalized/block/node_weak"
 		}
 	}
 }

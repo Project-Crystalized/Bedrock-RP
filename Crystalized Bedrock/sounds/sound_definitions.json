@@ -44,6 +44,40 @@
 		"crystalized:effect.nexus_crystal_destroyed": {
 			"category": "ui",
 			"sounds": ["sounds/effects/nexus_crystal_destroyed"]
+		},
+		"crystalized:effect.ls_round_lost": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_round_lost"]
+		},
+
+		"crystalized:effect.ls_round_won": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_round_won"]
+		},
+
+		"crystalized:effect.ls_round_start": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_round_start"]
+		},
+
+		"crystalized:effect.start_plant": {
+			"category": "ui",
+			"sounds": ["sounds/effects/start_plant"]
+		},
+
+		"crystalized:effect.ls_game_start": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_game_start"]
+		},
+
+		"crystalized:effect.ls_game_won": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_game_won"]
+		},
+
+		"crystalized:effect.ls_game_lost": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ls_game_lost"]
 		}
 	}
 }

@@ -175,6 +175,9 @@
     },
     "hotbar_replay": {
       "textures": "textures/crystalized/item/hotbar_replay"
+    },
+    "hotbar_leave": {
+      "textures": "textures/crystalized/item/hotbar_leave"
     }
   }
 }

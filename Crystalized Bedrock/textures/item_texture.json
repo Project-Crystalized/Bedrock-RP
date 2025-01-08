@@ -178,6 +178,9 @@
     },
     "hotbar_leave": {
       "textures": "textures/crystalized/item/hotbar_leave"
+    },
+    "custommodel.bomb_shard": {
+      "textures": "textures/crystalized/custommodel/bomb/shard_display"
     }
   }
 }

@@ -215,7 +215,7 @@
 			{
 				"name":"charcoal36",
 				"allow_offhand": false,
-				"icon":"placeholder",
+				"icon":"custommodel.bomb_shard",
 				"custom_model_data": 36
 			},
 			{

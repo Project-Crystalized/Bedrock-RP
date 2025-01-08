@@ -211,6 +211,18 @@
 				"allow_offhand": false,
 				"icon":"placeholder",
 				"custom_model_data": 35
+			},
+			{
+				"name":"charcoal36",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 36
+			},
+			{
+				"name":"charcoal37",
+				"allow_offhand": false,
+				"icon":"placeholder",
+				"custom_model_data": 37
 			}
 		]
 	}

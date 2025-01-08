@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"items": {
-		"minecraft:iron_sword": [
+		"minecraft:stone_sword": [
 			{
 				"name":"ironsword1",
 				"allow_offhand": false,

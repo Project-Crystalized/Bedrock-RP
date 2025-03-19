@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:bow": [
+			{
+				"type":"definition",
+				"model":"crystalized:explosive_bow",
+				"bedrock_identifier":"crystalized:explosive_bow",
+				"bedrock_options": {
+					"icon":"explosive_bow",
+					"creative_category":"items",
+					"display_handheld":true
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/grand_piano",
+				"bedrock_identifier":"crystalized:custommodel_grand_piano",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/grand_piano_stool",
+				"bedrock_identifier":"crystalized:custommodel_grand_piano_stool",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

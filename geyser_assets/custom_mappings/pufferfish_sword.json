@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:stone_sword": [
+			{
+				"type":"definition",
+				"model":"crystalized:pufferfish_sword",
+				"bedrock_identifier":"crystalized:pufferfish_sword",
+				"bedrock_options": {
+					"icon":"pufferfish_sword",
+					"creative_category":"items",
+					"display_handheld":true
+				}
+			}
+		]
+	}
+}

@@ -1,6 +1,8 @@
 Crystalized Bedrock/Geyser Resource Pack!
 
-Contributers for the assets used in this pack and the list of custom unicodes can be found [here](https://github.com/Project-Crystalized/Java-RP).
+Contributers for the assets used in this pack and the list of custom unicodes can be found [here](https://github.com/Project-Crystalized/Java-RP).<br>
+
+**‼ PSA:** Currently, Crystalized Bedrock will only work under the [Geyser Custom Items API v2 branch by eclipseisoffline](https://github.com/GeyserMC/Geyser/pull/5189), Until this is merged into the main builds of Geyser, you will need to use that specific build of Geyser.
 
 # Bedrock-Specific Contributers
 TotallyNoCallum - Main Developer

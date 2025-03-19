@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/merica_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_merica_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.merica_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/handbag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_handbag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.handbag"
+				}
+			}
+		]
+	}
+}

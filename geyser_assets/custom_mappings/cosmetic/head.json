@@ -1,0 +1,31 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/merica",
+				"bedrock_identifier":"crystalized:cosmetic_head_merica",
+				"bedrock_options": {
+					"icon":"cosmetic.head.merica"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/beanie",
+				"bedrock_identifier":"crystalized:cosmetic_head_beanie",
+				"bedrock_options": {
+					"icon":"cosmetic.head.beanie"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/fox_beret",
+				"bedrock_identifier":"crystalized:cosmetic_head_fox_beret",
+				"bedrock_options": {
+					"icon":"cosmetic.head.fox_beret"
+				}
+			}
+		]
+	}
+}

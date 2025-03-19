@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "animations": {
+        "animation.item.knockoff_boxing_glove.firstperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1.5,
+                    "position": [5, 16, 6],
+                    "rotation": [90, 60, -40]
+                }
+            }
+        },
+        "animation.item.knockoff_boxing_glove.thirdperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 1,
+                    "position": [0, 14, 10],
+                    "rotation": [90, 0, 0]
+                }
+            }
+        }
+    }
+}

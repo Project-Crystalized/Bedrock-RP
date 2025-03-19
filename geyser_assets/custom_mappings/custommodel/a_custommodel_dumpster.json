@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"group",
+				"model":"crystalized:models/dumpster",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:custommodel_dumpster",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_dumpster_closed",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

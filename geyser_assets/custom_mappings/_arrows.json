@@ -1,0 +1,25 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:arrow": [
+			{
+				"type":"definition",
+				"model":"crystalized:dragon_arrow",
+				"bedrock_identifier":"crystalized:dragon_arrow",
+				"bedrock_options": {
+					"icon":"dragon_arrow",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:explosive_arrow",
+				"bedrock_identifier":"crystalized:explosive_arrow",
+				"bedrock_options": {
+					"icon":"explosive_arrow",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

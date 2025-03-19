@@ -1,0 +1,79 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"definition",
+				"model":"crystalized:boost_orb",
+				"bedrock_identifier":"crystalized:boost_orb",
+				"bedrock_options": {
+					"icon":"boost_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:bridge_orb",
+				"bedrock_identifier":"crystalized:bridge_orb",
+				"bedrock_options": {
+					"icon":"bridge_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:explosive_orb",
+				"bedrock_identifier":"crystalized:explosive_orb",
+				"bedrock_options": {
+					"icon":"explosive_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:grappling_orb",
+				"bedrock_identifier":"crystalized:grappling_orb",
+				"bedrock_options": {
+					"icon":"grappling_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:knockout_orb",
+				"bedrock_identifier":"crystalized:knockout_orb",
+				"bedrock_options": {
+					"icon":"knockout_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:winged_orb",
+				"bedrock_identifier":"crystalized:winged_orb",
+				"bedrock_options": {
+					"icon":"winged_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:health_orb",
+				"bedrock_identifier":"crystalized:health_orb",
+				"bedrock_options": {
+					"icon":"health_orb",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:poison_orb",
+				"bedrock_identifier":"crystalized:poison_orb",
+				"bedrock_options": {
+					"icon":"poison_orb",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

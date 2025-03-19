@@ -1,0 +1,61 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"definition",
+				"model":"crystalized:weak_shard",
+				"bedrock_identifier":"crystalized:weak_shard",
+				"bedrock_options": {
+					"icon":"weak_shard",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:strong_shard",
+				"bedrock_identifier":"crystalized:strong_shard",
+				"bedrock_options": {
+					"icon":"strong_shard",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:nexus_shard",
+				"bedrock_identifier":"crystalized:nexus_shard",
+				"bedrock_options": {
+					"icon":"nexus_shard",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/leave",
+				"bedrock_identifier":"crystalized:ui_leave",
+				"bedrock_options": {
+					"icon":"hotbar_leave",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/replay",
+				"bedrock_identifier":"crystalized:ui_replay",
+				"bedrock_options": {
+					"icon":"hotbar_replay",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:nexus_shard_inactive",
+				"bedrock_identifier":"crystalized:nexus_shard_inactive",
+				"bedrock_options": {
+					"icon":"nexus_shard_inactive",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

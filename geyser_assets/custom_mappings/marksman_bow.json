@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:bow": [
+			{
+				"type":"definition",
+				"model":"crystalized:marksman_bow",
+				"bedrock_identifier":"crystalized:marksman_bow",
+				"bedrock_options": {
+					"icon":"marksman_bow",
+					"creative_category":"items",
+					"display_handheld":true
+				}
+			}
+		]
+	}
+}

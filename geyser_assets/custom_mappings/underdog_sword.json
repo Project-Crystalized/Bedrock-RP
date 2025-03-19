@@ -1,0 +1,78 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:stone_sword": [
+			{
+				"type":"group",
+				"model":"crystalized:underdog_sword",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:underdog_sword_0",
+						"bedrock_options": {
+							"icon":"underdog_sword_0",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:underdog_sword_1",
+						"bedrock_options": {
+							"icon":"underdog_sword_1",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:underdog_sword_2",
+						"bedrock_options": {
+							"icon":"underdog_sword_2",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 2.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:underdog_sword_3",
+						"bedrock_options": {
+							"icon":"underdog_sword_3",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 3.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:underdog_sword_4",
+						"bedrock_options": {
+							"icon":"underdog_sword_4",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 4.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

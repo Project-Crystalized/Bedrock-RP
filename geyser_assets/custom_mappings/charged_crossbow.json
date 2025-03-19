@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:crossbow": [
+			{
+				"type":"group",
+				"model":"crystalized:charged_crossbow",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:charged_crossbow_standby",
+						"bedrock_options": {
+							"icon":"charged_crossbow_standby"
+						}
+					},
+					
+					{
+						"bedrock_identifier":"crystalized:charged_crossbow_arrow",
+						"bedrock_options": {
+							"icon":"charged_crossbow_arrow"
+						},
+						"predicate": {
+							"type":"match",
+							"property":"charge_type",
+							"value":"arrow"
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:charged_crossbow_firework",
+						"bedrock_options": {
+							"icon":"charged_crossbow_firework"
+						},
+						"predicate": {
+							"type":"match",
+							"property":"charge_type",
+							"value":"rocket"
+						}
+					}
+				]
+			}
+		]
+	}
+}

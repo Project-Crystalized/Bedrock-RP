@@ -1,0 +1,115 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:amethyst_block": [
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/blue",
+				"bedrock_identifier":"crystalized:block_nexus_blue",
+				"bedrock_options": {
+					"icon":"nexus_blue",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/cyan",
+				"bedrock_identifier":"crystalized:block_nexus_cyan",
+				"bedrock_options": {
+					"icon":"nexus_cyan",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/green",
+				"bedrock_identifier":"crystalized:block_nexus_green",
+				"bedrock_options": {
+					"icon":"nexus_green",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/lemon",
+				"bedrock_identifier":"crystalized:block_nexus_lemon",
+				"bedrock_options": {
+					"icon":"nexus_lemon",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/lime",
+				"bedrock_identifier":"crystalized:block_nexus_lime",
+				"bedrock_options": {
+					"icon":"nexus_lime",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/magenta",
+				"bedrock_identifier":"crystalized:block_nexus_magenta",
+				"bedrock_options": {
+					"icon":"nexus_magenta",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/orange",
+				"bedrock_identifier":"crystalized:block_nexus_orange",
+				"bedrock_options": {
+					"icon":"nexus_orange",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/peach",
+				"bedrock_identifier":"crystalized:block_nexus_peach",
+				"bedrock_options": {
+					"icon":"nexus_peach",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/purple",
+				"bedrock_identifier":"crystalized:block_nexus_purple",
+				"bedrock_options": {
+					"icon":"nexus_purple",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/red",
+				"bedrock_identifier":"crystalized:block_nexus_red",
+				"bedrock_options": {
+					"icon":"nexus_red",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/white",
+				"bedrock_identifier":"crystalized:block_nexus_white",
+				"bedrock_options": {
+					"icon":"nexus_white",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:block/nexus/yellow",
+				"bedrock_identifier":"crystalized:block_nexus_yellow",
+				"bedrock_options": {
+					"icon":"nexus_yellow",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"group",
+				"model":"crystalized:models/bomb/toaster",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:custommodel_bomb_toaster",
+						"bedrock_options": {
+							"icon":"custommodel.bomb_toaster"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_bomb_toaster_active",
+						"bedrock_options": {
+							"icon":"custommodel.bomb_toaster"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_bomb_toaster_done",
+						"bedrock_options": {
+							"icon":"custommodel.bomb_toaster"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 2.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:models/bomb/shard",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:custommodel_bomb_shard",
+						"bedrock_options": {
+							"icon":"custommodel.bomb_shard"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_bomb_shard_break",
+						"bedrock_options": {
+							"icon":"custommodel.bomb_shard"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -181,6 +181,63 @@
     },
     "custommodel.bomb_shard": {
       "textures": "textures/crystalized/custommodel/bomb/shard_display"
+    },
+    "quick_charge_crossbow_standby": {
+      "textures": "textures/crystalized/item/crossbow/quick_charge_crossbow_standby"
+    },
+    "quick_charge_crossbow_arrow": {
+      "textures": "textures/crystalized/item/crossbow/quick_charge_crossbow_arrow"
+    },
+    "quick_charge_crossbow_firework": {
+      "textures": "textures/crystalized/item/crossbow/quick_charge_crossbow_firework"
+    },
+    "multi_crossbow_standby": {
+      "textures": "textures/crystalized/item/crossbow/multi_crossbow_standby"
+    },
+    "multi_crossbow_arrow": {
+      "textures": "textures/crystalized/item/crossbow/multi_crossbow_arrow"
+    },
+    "multi_crossbow_firework": {
+      "textures": "textures/crystalized/item/crossbow/multi_crossbow_firework"
+    },
+    "charged_crossbow_standby": {
+      "textures": "textures/crystalized/item/crossbow/charged_crossbow_standby"
+    },
+    "charged_crossbow_arrow": {
+      "textures": "textures/crystalized/item/crossbow/charged_crossbow_arrow"
+    },
+    "charged_crossbow_firework": {
+      "textures": "textures/crystalized/item/crossbow/charged_crossbow_firework"
+    },
+    "underdog_sword_0": {
+      "textures": "textures/crystalized/item/underdog_sword_1"
+    },
+    "underdog_sword_1": {
+      "textures": "textures/crystalized/item/underdog_sword_2"
+    },
+    "underdog_sword_2": {
+      "textures": "textures/crystalized/item/underdog_sword_3"
+    },
+    "underdog_sword_3": {
+      "textures": "textures/crystalized/item/underdog_sword_4"
+    },
+    "underdog_sword_4": {
+      "textures": "textures/crystalized/item/underdog_sword_5"
+    },
+    "weak_shard": {
+      "textures": "textures/crystalized/item/weak_shard"
+    },
+    "strong_shard": {
+      "textures": "textures/crystalized/item/strong_shard"
+    },
+    "nexus_shard": {
+      "textures": "textures/crystalized/item/nexus_shard"
+    },
+    "nexus_shard_inactive": {
+      "textures": "textures/crystalized/item/nexus_shard-inactive"
+    },
+    "knockoff_boxing_glove": {
+      "textures": "textures/crystalized/item/knockoff_boxing_glo_display"
     }
   }
 }

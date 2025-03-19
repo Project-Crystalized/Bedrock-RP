@@ -2,9 +2,9 @@
     "format_version": 2,
     "header": {
         "description": "Project Crystalized Bedrock Resource Pack \n§9Callum_Is_Bad",
-        "name": "Project Crystalized: Bedrock/Geyser Port",
+        "name": "Project Crystalized",
         "uuid": "95a0c897-f905-408a-a1fd-c0f53bd3b6f1",
-        "version": [2025, 1, 8],
+        "version": [2025, 3, 19],
         "min_engine_version": [1, 21, 0]
     },
     "modules": [

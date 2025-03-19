@@ -1,0 +1,61 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"definition",
+				"model":"crystalized:cloud_totem",
+				"bedrock_identifier":"crystalized:cloud_totem",
+				"bedrock_options": {
+					"icon":"cloud_totem",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:defense_totem",
+				"bedrock_identifier":"crystalized:defense_totem",
+				"bedrock_options": {
+					"icon":"defense_totem",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:launch_totem",
+				"bedrock_identifier":"crystalized:launch_totem",
+				"bedrock_options": {
+					"icon":"launch_totem",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:antiair_totem",
+				"bedrock_identifier":"crystalized:antiair_totem",
+				"bedrock_options": {
+					"icon":"antiair_totem",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:healing_totem",
+				"bedrock_identifier":"crystalized:healing_totem",
+				"bedrock_options": {
+					"icon":"healing_totem",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:slime_totem",
+				"bedrock_identifier":"crystalized:slime_totem",
+				"bedrock_options": {
+					"icon":"slime_totem",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

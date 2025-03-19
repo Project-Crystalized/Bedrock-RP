@@ -1,0 +1,78 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/abby_frozen_yoghurt",
+				"bedrock_identifier":"crystalized:custommodel_abby_frozen_yoghurt",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/vanilla_fro_yo_machine",
+				"bedrock_identifier":"crystalized:custommodel_vanilla_fro_yo_machine",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/chocolate_fro_yo_machine",
+				"bedrock_identifier":"crystalized:custommodel_chocolate_fro_yo_machine",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/caramel_fro_yo_machine",
+				"bedrock_identifier":"crystalized:custommodel_caramel_fro_yo_machine",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"group",
+				"model":"crystalized:models/abby_juice_dispenser",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:custommodel_abby_juice_dispenser",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_abby_juice_dispenser_orange",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_abby_juice_dispenser_lemon",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 2.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

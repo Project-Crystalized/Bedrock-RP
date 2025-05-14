@@ -27,6 +27,28 @@
 							"property":"custom_model_data",
 							"threshold": 1.0
 						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_dumpster_green",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 2.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:custommodel_dumpster_green2",
+						"bedrock_options": {
+							"icon":"placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 3.0
+						}
 					}
 				]
 			}

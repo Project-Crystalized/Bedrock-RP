@@ -1,0 +1,63 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:petrified_oak_slab": {
+			"name": "invisslab",
+			"display_name": "invisslab",
+			"state_overrides": {
+				"type=bottom,waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "invisible",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=top,waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "invisible",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=bottom,waterlogged=true": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "invisible",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=top,waterlogged=true": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "invisible",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

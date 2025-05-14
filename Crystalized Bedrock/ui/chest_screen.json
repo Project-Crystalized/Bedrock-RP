@@ -29,12 +29,42 @@
     "visible":"(not ($localtitle - 'ꀂ' = $localtitle))"
   },
 
+  "callum_shardcorenexus3_partyrequest@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_partyrequest",
+    "visible":"(not ($localtitle - 'ꀃ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_shop_main@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_shop_main",
+    "visible":"(not ($localtitle - 'ꀄ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_friendsapp@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_friendsapp",
+    "visible":"(not ($localtitle - 'ꀅ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_games@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_games",
+    "visible":"(not ($localtitle - 'ꀆ' = $localtitle))"
+  },
+
+  "callum_chess_board@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/chess_board",
+    "visible":"(not ($localtitle - 'ꀇ' = $localtitle))"
+  },
+
   // Just a simple panel to collect all individual panels at once
   "ofunnys_chest_panels": {
     "type": "panel",
     "controls": [
       { "callum_lsshop@callum_lsshop": {} },
-      { "callum_shardcorenexus3_home@callum_shardcorenexus3_home": {} }
+      { "callum_shardcorenexus3_home@callum_shardcorenexus3_home": {} },
+      { "callum_shardcorenexus3_partyrequest@callum_shardcorenexus3_partyrequest": {} },
+      { "callum_shardcorenexus3_shop_main@callum_shardcorenexus3_shop_main": {} },
+      { "callum_shardcorenexus3_friendsapp@callum_shardcorenexus3_friendsapp": {} },
+      { "callum_shardcorenexus3_games@callum_shardcorenexus3_games": {} },
+      { "callum_chess_board@callum_chess_board": {} }
     ]
   },
 

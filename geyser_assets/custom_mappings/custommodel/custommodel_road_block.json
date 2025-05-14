@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/road_block",
+				"bedrock_identifier":"crystalized:custommodel_road_block",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

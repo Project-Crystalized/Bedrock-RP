@@ -238,6 +238,42 @@
     },
     "knockoff_boxing_glove": {
       "textures": "textures/crystalized/item/knockoff_boxing_glo_display"
+    },
+    "scn3.achivements": {
+      "textures": "textures/crystalized/item/scn3/achivements"
+    },
+    "scn3.friends": {
+      "textures": "textures/crystalized/item/scn3/friends"
+    },
+    "scn3.games": {
+      "textures": "textures/crystalized/item/scn3/games"
+    },
+    "scn3.maps": {
+      "textures": "textures/crystalized/item/scn3/maps"
+    },
+    "scn3.profile": {
+      "textures": "textures/crystalized/item/scn3/profile"
+    },
+    "scn3.settings": {
+      "textures": "textures/crystalized/item/scn3/settings"
+    },
+    "scn3.shop": {
+      "textures": "textures/crystalized/item/scn3/shop"
+    },
+    "scn3.games.battleroyale": {
+      "textures": "textures/crystalized/item/scn3/games/battleroyale"
+    },
+    "scn3.games.botanica": {
+      "textures": "textures/crystalized/item/scn3/games/botanica"
+    },
+    "scn3.games.crystalblitz": {
+      "textures": "textures/crystalized/item/scn3/games/crystalblitz"
+    },
+    "scn3.games.knockoff": {
+      "textures": "textures/crystalized/item/scn3/games/knockoff"
+    },
+    "scn3.games.litestrike": {
+      "textures": "textures/crystalized/item/scn3/games/litestrike"
     }
   }
 }

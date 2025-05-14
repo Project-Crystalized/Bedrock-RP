@@ -13,7 +13,7 @@ This Resource Pack was intended to be used with [Geyser](https://geysermc.org/).
 To get started, make sure you've [set Geyser up on your server](https://geysermc.org/wiki/geyser/setup/) and confirm it works. <br>
 Go into the `Crystalied Bedrock` folder, And zip everything (where `manifest.json` is) into a zip folder (7-zip recommended) then rename the zip to a `.mcpack` file.<br>
 Put the `.mcpack` file in `plugins/geyser-<platform>/packs` on your server. <br>
-Next, take the `custom_mappings` folder inside `geyser_assets` and replace it with the `custom_mappings` folder on your server (in `plugins/geyser-<platform>/packs`) <br>
+Next, take the `custom_mappings` folder inside `geyser_assets` and replace it with the `custom_mappings` folder on your server (in `plugins/geyser-<platform>/`) <br>
 Restart your server if its on, and hopefully it should work next time you join.<br>
 
 For text translations; <br>

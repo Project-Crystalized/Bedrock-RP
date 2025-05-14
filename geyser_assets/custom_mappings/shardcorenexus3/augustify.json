@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:emerald": [
+			{
+				"type":"group",
+				"model":"crystalized:shardcorenexus3/augustify",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:shardcorenexus3_augustify",
+						"bedrock_options": {
+							"icon":"shardcorenexus3_augustify",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:shardcorenexus3_augustify_open",
+						"bedrock_options": {
+							"icon":"shardcorenexus3_augustify",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:shardcorenexus3_augustify_attention",
+						"bedrock_options": {
+							"icon":"shardcorenexus3_augustify_attention",
+							"creative_category":"items",
+							"display_handheld":true
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 2.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

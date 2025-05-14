@@ -78,6 +78,18 @@
 		"crystalized:effect.ls_game_lost": {
 			"category": "ui",
 			"sounds": ["sounds/effects/ls_game_lost"]
+		},
+		"crystalized:effect.scn3.click": {
+			"category": "ui",
+			"sounds": ["sounds/effects/scn3/click"]
+		},
+		"crystalized:effect.scn3.click_basic": {
+			"category": "ui",
+			"sounds": ["sounds/effects/scn3/click_basic"]
+		},
+		"crystalized:effect.scn3.loading": {
+			"category": "ui",
+			"sounds": ["sounds/effects/scn3/loading"]
 		}
 	}
 }

@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/map/gilbertsimulation",
+				"bedrock_identifier":"crystalized:custommodel_map_gilbertsimulation",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

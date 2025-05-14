@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/stretcher",
+				"bedrock_identifier":"crystalized:custommodel_stretcher",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

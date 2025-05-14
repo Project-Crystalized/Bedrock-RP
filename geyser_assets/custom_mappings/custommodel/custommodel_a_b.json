@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/a",
+				"bedrock_identifier":"crystalized:custommodel_a",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/b",
+				"bedrock_identifier":"crystalized:custommodel_b",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/antiair_totem",
+				"bedrock_identifier":"crystalized:custommodel_antiair_totem",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"group",
+				"model":"crystalized:models/antiair_totem_turret",
+				"definitions": [
+					{
+						"bedrock_identifier": "crystalized:custommodel_antiair_totem_turretbase",
+						"bedrock_options": {
+							"icon": "placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier": "crystalized:custommodel_antiair_totem_turret",
+						"bedrock_options": {
+							"icon": "placeholder"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			}
+		]
+	}
+}

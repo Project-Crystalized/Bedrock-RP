@@ -1,0 +1,115 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements",
+				"bedrock_options": {
+					"icon":"scn3.achivements",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/friends",
+				"bedrock_identifier":"crystalized:ui_scn3_friends",
+				"bedrock_options": {
+					"icon":"scn3.friends",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games",
+				"bedrock_identifier":"crystalized:ui_scn3_games",
+				"bedrock_options": {
+					"icon":"scn3.games",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/maps",
+				"bedrock_identifier":"crystalized:ui_scn3_maps",
+				"bedrock_options": {
+					"icon":"scn3.maps",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile",
+				"bedrock_identifier":"crystalized:ui_scn3_profile",
+				"bedrock_options": {
+					"icon":"scn3.profile",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/settings",
+				"bedrock_identifier":"crystalized:ui_scn3_settings",
+				"bedrock_options": {
+					"icon":"scn3.settings",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/shop",
+				"bedrock_identifier":"crystalized:ui_scn3_shop",
+				"bedrock_options": {
+					"icon":"scn3.shop",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games/battleroyale",
+				"bedrock_identifier":"crystalized:ui_scn3_games/battleroyale",
+				"bedrock_options": {
+					"icon":"scn3.games.battleroyale",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games/botanica",
+				"bedrock_identifier":"crystalized:ui_scn3_games/botanica",
+				"bedrock_options": {
+					"icon":"scn3.games.botanica",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games/crystalblitz",
+				"bedrock_identifier":"crystalized:ui_scn3_games/crystalblitz",
+				"bedrock_options": {
+					"icon":"scn3.games.crystalblitz",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games/knockoff",
+				"bedrock_identifier":"crystalized:ui_scn3_games/knockoff",
+				"bedrock_options": {
+					"icon":"scn3.games.knockoff",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/games/litestrike",
+				"bedrock_identifier":"crystalized:ui_scn3_games/litestrike",
+				"bedrock_options": {
+					"icon":"scn3.games.litestrike",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

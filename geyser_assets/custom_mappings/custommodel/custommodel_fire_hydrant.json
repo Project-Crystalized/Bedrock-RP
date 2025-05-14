@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/fire_hydrant",
+				"bedrock_identifier":"crystalized:custommodel_fire_hydrant",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

@@ -30,6 +30,16 @@
                     "rotation": [15, 0, 0]
                 }
             }
+        },
+        "animation.shardcorenexus_open.wardrobe_preview.firstperson_mainhand": {
+            "loop": true,
+            "bones": {
+                "model": {
+                    "scale": 3.5,
+                    "position": [5, -8, -25],
+                    "rotation": [80, 60, -50]
+                }
+            }
         }
     }
 }

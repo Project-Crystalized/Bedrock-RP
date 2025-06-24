@@ -109,6 +109,14 @@
 					"icon":"scn3.games.litestrike",
 					"creative_category":"items"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/invisible",
+				"bedrock_identifier":"crystalized:ui_invisible",
+				"bedrock_options": {
+					"icon":"invisible"
+				}
 			}
 		]
 	}

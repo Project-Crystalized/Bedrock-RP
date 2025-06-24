@@ -8,6 +8,7 @@
 				"definitions": [
 					{
 						"bedrock_identifier":"crystalized:underdog_sword_0",
+						"priority": 0,
 						"bedrock_options": {
 							"icon":"underdog_sword_0",
 							"creative_category":"items",
@@ -21,6 +22,7 @@
 					},
 					{
 						"bedrock_identifier":"crystalized:underdog_sword_1",
+						"priority": 1,
 						"bedrock_options": {
 							"icon":"underdog_sword_1",
 							"creative_category":"items",
@@ -34,6 +36,7 @@
 					},
 					{
 						"bedrock_identifier":"crystalized:underdog_sword_2",
+						"priority": 2,
 						"bedrock_options": {
 							"icon":"underdog_sword_2",
 							"creative_category":"items",
@@ -47,6 +50,7 @@
 					},
 					{
 						"bedrock_identifier":"crystalized:underdog_sword_3",
+						"priority": 3,
 						"bedrock_options": {
 							"icon":"underdog_sword_3",
 							"creative_category":"items",
@@ -60,6 +64,7 @@
 					},
 					{
 						"bedrock_identifier":"crystalized:underdog_sword_4",
+						"priority": 4,
 						"bedrock_options": {
 							"icon":"underdog_sword_4",
 							"creative_category":"items",

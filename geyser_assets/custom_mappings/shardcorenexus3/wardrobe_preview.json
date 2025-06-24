@@ -1,0 +1,16 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"definition",
+				"model":"crystalized:shardcorenexus3/wardrobe_preview",
+				"bedrock_identifier":"crystalized:shardcorenexus3_wardrobe_preview",
+				"bedrock_options": {
+					"icon":"placeholder",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

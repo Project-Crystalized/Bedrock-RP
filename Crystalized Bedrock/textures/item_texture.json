@@ -274,6 +274,10 @@
     },
     "scn3.games.litestrike": {
       "textures": "textures/crystalized/item/scn3/games/litestrike"
+    },
+    "breeze_dagger": {
+      "textures": "textures/crystalized/item/breeze_dagger"
     }
+
   }
 }

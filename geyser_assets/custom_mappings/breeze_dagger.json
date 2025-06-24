@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:stone_sword": [
+			{
+				"type":"definition",
+				"model":"crystalized:breeze_dagger",
+				"bedrock_identifier":"crystalized:breeze_dagger",
+				"bedrock_options": {
+					"icon":"breeze_dagger",
+					"creative_category":"items",
+					"display_handheld":true
+				}
+			}
+		]
+	}
+}

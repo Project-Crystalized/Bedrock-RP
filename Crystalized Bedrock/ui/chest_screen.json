@@ -54,6 +54,51 @@
     "visible":"(not ($localtitle - 'ꀇ' = $localtitle))"
   },
 
+  "callum_shardcorenexus3_profile_default@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_profile_default",
+    "visible":"(not ($localtitle - 'ꀈ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_settings@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_settings",
+    "visible":"(not ($localtitle - 'ꀉ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_shop_categoryselect@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_shop_categoryselect",
+    "visible":"(not ($localtitle - 'ꀊ' = $localtitle))"
+  },
+
+  "callum_cb_shop@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/cb_shop",
+    "visible":"(not ($localtitle - 'ꀋ' = $localtitle))"
+  },
+
+  "callum_cb_shop_defence@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/cb_shop_defence",
+    "visible":"(not ($localtitle - 'ꀌ' = $localtitle))"
+  },
+
+  "callum_cb_shop_offense@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/cb_shop_offense",
+    "visible":"(not ($localtitle - 'ꀍ' = $localtitle))"
+  },
+
+  "callum_cb_shop_utility@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/cb_shop_utility",
+    "visible":"(not ($localtitle - 'ꀎ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_wardrobe_main@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_wardrobe_main",
+    "visible":"(not ($localtitle - 'ꀏ' = $localtitle))"
+  },
+
+  "callum_shardcorenexus3_wardrobe_categoryselect@ofunnys_chest_panel": {
+    "texture":"textures/ui/inventory/ia/shardcorenexus3_wardrobe_categoryselect",
+    "visible":"(not ($localtitle - 'ꀐ' = $localtitle))"
+  },
+
   // Just a simple panel to collect all individual panels at once
   "ofunnys_chest_panels": {
     "type": "panel",
@@ -64,7 +109,16 @@
       { "callum_shardcorenexus3_shop_main@callum_shardcorenexus3_shop_main": {} },
       { "callum_shardcorenexus3_friendsapp@callum_shardcorenexus3_friendsapp": {} },
       { "callum_shardcorenexus3_games@callum_shardcorenexus3_games": {} },
-      { "callum_chess_board@callum_chess_board": {} }
+      { "callum_chess_board@callum_chess_board": {} },
+      { "callum_shardcorenexus3_profile_default@callum_shardcorenexus3_profile_default": {} },
+      { "callum_shardcorenexus3_settings@callum_shardcorenexus3_settings": {} },
+      { "callum_shardcorenexus3_shop_categoryselect@callum_shardcorenexus3_shop_categoryselect": {} },
+      { "callum_cb_shop@callum_cb_shop": {} },
+      { "callum_cb_shop_defence@callum_cb_shop_defence": {} },
+      { "callum_cb_shop_offense@callum_cb_shop_offense": {} },
+      { "callum_cb_shop_utility@callum_cb_shop_utility": {} },
+      { "callum_shardcorenexus3_wardrobe_main@callum_shardcorenexus3_wardrobe_main": {} },
+      { "callum_shardcorenexus3_wardrobe_categoryselect@callum_shardcorenexus3_wardrobe_categoryselect": {} }
     ]
   },
 

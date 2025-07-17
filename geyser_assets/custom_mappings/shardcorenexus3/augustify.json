@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"items": {
-		"minecraft:emerald": [
+		"minecraft:coal": [
 			{
 				"type":"group",
 				"model":"crystalized:shardcorenexus3/augustify",

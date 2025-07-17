@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/car/broken_car",
+				"bedrock_identifier":"crystalized:custommodel_car_broken_car",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

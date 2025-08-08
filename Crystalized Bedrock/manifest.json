@@ -4,7 +4,7 @@
         "description": "Project Crystalized Bedrock Resource Pack \n§9Callum_Is_Bad",
         "name": "Project Crystalized",
         "uuid": "95a0c897-f905-408a-a1fd-c0f53bd3b6f1",
-        "version": [2025, 7, 26],
+        "version": [2025, 8, 8],
         "min_engine_version": [1, 21, 0]
     },
     "modules": [

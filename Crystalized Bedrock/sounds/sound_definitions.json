@@ -90,6 +90,42 @@
 		"crystalized:effect.scn3.loading": {
 			"category": "ui",
 			"sounds": ["sounds/effects/scn3/loading"]
+		},
+		"crystalized:effect.enemy_kill": {
+			"category": "ui",
+			"sounds": ["sounds/effects/enemy_kill"]
+		},
+		"crystalized:effect.shard.beep_1": {
+			"category": "ui",
+			"sounds": ["sounds/effects/shard/star_beep-1"]
+		},
+		"crystalized:effect.shard.beep_2": {
+			"category": "ui",
+			"sounds": ["sounds/effects/shard/star_beep-2"]
+		},
+		"crystalized:effect.shard.beep_3": {
+			"category": "ui",
+			"sounds": ["sounds/effects/shard/star_beep-3"]
+		},
+		"crystalized:effect.shard.deactivation": {
+			"category": "ui",
+			"sounds": ["sounds/effects/shard/star-deactivation"]
+		},
+		"crystalized:effect.shard.detonation": {
+			"category": "ui",
+			"sounds": ["sounds/effects/shard/star-detonation"]
+		},
+		"crystalized:effect.ambient.train_horn": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ambient/train_horn"]
+		},
+		"crystalized:effect.ambient.car_horn": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ambient/car_horn"]
+		},
+		"crystalized:effect.ambient.car_horn_tubnet": {
+			"category": "ui",
+			"sounds": ["sounds/effects/ambient/car_horn_tubnet"]
 		}
 	}
 }

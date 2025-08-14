@@ -13,12 +13,8 @@
 			"bones": [
 				{
 					"name": "model",
-					"pivot": [1, -16, -1]
-				},
-				{
-					"name": "totem",
-					"parent": "model",
-					"pivot": [-4, 9, 4],
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
+					"pivot": [1, -16, -1],
 					"cubes": [
 						{
 							"origin": [-6, -14, -6],

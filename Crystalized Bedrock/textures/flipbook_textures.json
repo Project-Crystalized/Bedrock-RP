@@ -1,0 +1,100 @@
+[
+    {
+        "atlas_tile": "nexus_blue",
+        "flipbook_texture": "textures/crystalized/block/nexus_blue_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_cyan",
+        "flipbook_texture": "textures/crystalized/block/nexus_cyan_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_green",
+        "flipbook_texture": "textures/crystalized/block/nexus_green_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_lemon",
+        "flipbook_texture": "textures/crystalized/block/nexus_lemon_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_lime",
+        "flipbook_texture": "textures/crystalized/block/nexus_lime_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_magenta",
+        "flipbook_texture": "textures/crystalized/block/nexus_magenta_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_orange",
+        "flipbook_texture": "textures/crystalized/block/nexus_orange_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_peach",
+        "flipbook_texture": "textures/crystalized/block/nexus_peach_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_purple",
+        "flipbook_texture": "textures/crystalized/block/nexus_purple_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_red",
+        "flipbook_texture": "textures/crystalized/block/nexus_red_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_white",
+        "flipbook_texture": "textures/crystalized/block/nexus_white_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "nexus_yellow",
+        "flipbook_texture": "textures/crystalized/block/nexus_yellow_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "node_weak",
+        "flipbook_texture": "textures/crystalized/block/node_weak_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    },
+    {
+        "atlas_tile": "node_strong",
+        "flipbook_texture": "textures/crystalized/block/node_strong_anim",
+        "ticks_per_frame": 2,
+	"blend_frames": false,
+        "frames": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 1,2,3,4,5,6,7,8,9]
+    }
+]

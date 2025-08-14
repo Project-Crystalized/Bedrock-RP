@@ -13,6 +13,7 @@
 			"bones": [
 				{
 					"name": "model",
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
 					"pivot": [-6, 0, -8],
 					"cubes": [
 						{

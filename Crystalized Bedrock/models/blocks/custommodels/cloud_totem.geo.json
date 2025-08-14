@@ -13,12 +13,8 @@
 			"bones": [
 				{
 					"name": "model",
-					"pivot": [0, 8, 0]
-				},
-				{
-					"name": "thing",
-					"parent": "model",
-					"pivot": [-3.85786, 1.92893, -1],
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
+					"pivot": [0, 8, 0],
 					"cubes": [
 						{
 							"origin": [-1.43503, -5.77817, -2],

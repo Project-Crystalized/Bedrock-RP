@@ -1,0 +1,50 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:cut_copper_slab": {
+			"name": "amethystslab",
+			"display_name": "amethystslab",
+			"state_overrides": {
+				"type=bottom,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "amethyst_block",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=top,waterlogged=false": {
+					"geometry": "geometry.customslab_top",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "amethyst_block",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=double,waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "amethyst_block",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

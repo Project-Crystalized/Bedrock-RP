@@ -277,6 +277,76 @@
     },
     "breeze_dagger": {
       "textures": "textures/crystalized/item/breeze_dagger"
+    },
+    "scn3.wardrobe": {
+      "textures": "textures/crystalized/item/scn3/wardrobe"
+    },
+    "scn3.add": {
+      "textures": "textures/crystalized/item/scn3/add"
+    },
+    "scn3.settings.friend_requests": {
+      "textures": "textures/crystalized/item/scn3/settings/friend_requests"
+    },
+    "scn3.settings.msg": {
+      "textures": "textures/crystalized/item/scn3/settings/msg"
+    },
+    "scn3.settings.party_requests": {
+      "textures": "textures/crystalized/item/scn3/settings/party_requests"
+    },
+    "scn3.settings.pig_hunt": {
+      "textures": "textures/crystalized/item/scn3/settings/pig_hunt"
+    },
+    "scn3.settings.player_height": {
+      "textures": "textures/crystalized/item/scn3/settings/player_height"
+    },
+    "scn3.settings.player_visibility": {
+      "textures": "textures/crystalized/item/scn3/settings/player_visibility"
+    },
+    "scn3.settings.toggle_mid": {
+      "textures": "textures/crystalized/item/scn3/settings/toggle_mid"
+    },
+    "scn3.settings.toggle_off": {
+      "textures": "textures/crystalized/item/scn3/settings/toggle_off"
+    },
+    "scn3.settings.toggle_on": {
+      "textures": "textures/crystalized/item/scn3/settings/toggle_on"
+    },
+
+    "scn3.profile.addfriend": {
+      "textures": "textures/crystalized/item/scn3/profile/addfriend"
+    },
+    "scn3.profile.addtoparty": {
+      "textures": "textures/crystalized/item/scn3/profile/addtoparty"
+    },
+    "scn3.profile.rank_admin": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_admin"
+    },
+    "scn3.profile.rank_dev": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_dev"
+    },
+    "scn3.profile.rank_contributor": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_contributor"
+    },
+    "scn3.profile.rank_mod": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_mod"
+    },
+    "scn3.profile.rank_sub_project": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_sub_project"
+    },
+    "scn3.profile.info.cb": {
+      "textures": "textures/crystalized/item/scn3/profile/info/cb"
+    },
+    "scn3.profile.info.ko": {
+      "textures": "textures/crystalized/item/scn3/profile/info/ko"
+    },
+    "scn3.profile.info.ls": {
+      "textures": "textures/crystalized/item/scn3/profile/info/ls"
+    },
+    "scn3.profile.info.left": {
+      "textures": "textures/crystalized/item/scn3/profile/info/left"
+    },
+    "scn3.profile.info.right": {
+      "textures": "textures/crystalized/item/scn3/profile/info/right"
     }
 
   }

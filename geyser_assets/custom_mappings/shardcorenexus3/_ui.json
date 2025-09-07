@@ -327,10 +327,154 @@
 			},
 			{
 				"type":"definition",
-				"model":"crystalized:ui/scn3/profile/info/cb",
-				"bedrock_identifier":"crystalized:ui_scn3_profile_info_cb",
+				"model":"crystalized:ui/scn3/profile/xp/0",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_0",
 				"bedrock_options": {
-					"icon":"scn3.profile.info.cb",
+					"icon":"scn3.profile.xp.0",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/1",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_1",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.1",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/2",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_2",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.2",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/3",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_3",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.3",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/4",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_4",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.4",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/5",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_5",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.5",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/6",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_6",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.6",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/7",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_7",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.7",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/8",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_8",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.8",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/9",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_9",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.9",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/10",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_10",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.10",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/11",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_11",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.11",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/12",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_12",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.12",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/13",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_13",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.13",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/14",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_14",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.14",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/15",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_15",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.15",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/xp/16",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_xp_16",
+				"bedrock_options": {
+					"icon":"scn3.profile.xp.16",
 					"creative_category":"items"
 				}
 			}

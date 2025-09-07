@@ -347,6 +347,57 @@
     },
     "scn3.profile.info.right": {
       "textures": "textures/crystalized/item/scn3/profile/info/right"
+    },
+    "scn3.profile.xp.0": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/0"
+    },
+    "scn3.profile.xp.1": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/1"
+    },
+    "scn3.profile.xp.2": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/2"
+    },
+    "scn3.profile.xp.3": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/3"
+    },
+    "scn3.profile.xp.4": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/4"
+    },
+    "scn3.profile.xp.5": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/5"
+    },
+    "scn3.profile.xp.6": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/6"
+    },
+    "scn3.profile.xp.7": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/7"
+    },
+    "scn3.profile.xp.8": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/8"
+    },
+    "scn3.profile.xp.9": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/9"
+    },
+    "scn3.profile.xp.10": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/10"
+    },
+    "scn3.profile.xp.11": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/11"
+    },
+    "scn3.profile.xp.12": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/12"
+    },
+    "scn3.profile.xp.13": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/13"
+    },
+    "scn3.profile.xp.14": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/14"
+    },
+    "scn3.profile.xp.15": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/15"
+    },
+    "scn3.profile.xp.16": {
+      "textures": "textures/crystalized/item/scn3/profile/xp/16"
     }
 
   }

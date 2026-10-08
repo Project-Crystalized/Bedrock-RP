@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.head.lemon_cap.head": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"position": [0, 25.4, 0],
+					"scale": 0.6
+				}
+			}
+		}
+	}
+}

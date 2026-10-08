@@ -1,0 +1,197 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:beehive": {
+			"name": "beehives",
+			"display_name": "beehives",
+			"only_override_states": true,
+			"state_overrides": {
+				"facing=north,honey_level=1": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "element_constructor",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,honey_level=1": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "element_constructor",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,honey_level=1": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [180, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "element_constructor",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=west,honey_level=1": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [270, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "element_constructor",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+
+				"facing=north,honey_level=2": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "lab_table",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,honey_level=2": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "lab_table",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,honey_level=2": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [180, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "lab_table",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=west,honey_level=2": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [270, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "lab_table",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+
+				"facing=north,honey_level=3": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "material_reducer",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,honey_level=3": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "material_reducer",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,honey_level=3": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [180, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "material_reducer",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=west,honey_level=3": {
+					"geometry": "geometry.customblock_directional",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [270, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "material_reducer",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

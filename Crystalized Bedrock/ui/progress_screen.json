@@ -1,0 +1,20 @@
+{
+	"nether_loading_background@world_loading_screen_background": {
+		"texture": "textures/blocks/amethyst_block",
+		"color": [ 0.5, 0.5, 0.5 ],
+		"controls": [
+			{
+				"background_gradient": {
+					"type": "custom",
+					"renderer": "gradient_renderer",
+					"color1": [ 0.3, 0.3, 0.3, 0.2 ], //https://rgbcolorpicker.com/0-1
+					"color2": [ 1, 0.569, 0.749, 0.4 ]
+				}
+			}
+		]
+	},
+
+	"nether_loading_progress_screen@world_loading_progress_screen": {
+		"$screen_bg_content": "progress.nether_loading_background"
+	}
+}

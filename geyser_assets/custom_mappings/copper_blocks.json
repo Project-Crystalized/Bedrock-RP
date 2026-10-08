@@ -1,0 +1,350 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:copper_block": {
+			"name": "boostpad",
+			"display_name": "boostpad",
+			"geometry": "geometry.customblock",
+			"material_instances": {
+				"*": {
+					"texture": "boost_pad",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			}
+		},
+		"minecraft:chiseled_copper": {
+			"name": "jumppad",
+			"display_name": "jumppad",
+			"geometry": "geometry.customblock",
+			"material_instances": {
+				"*": {
+					"texture": "jump_pad",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			}
+		},
+		"minecraft:copper_grate": {
+			"name": "irongrate",
+			"display_name": "irongrate",
+			"state_overrides": {
+				"waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "iron_grate",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"waterlogged=true": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "iron_grate",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:cut_copper": {
+			"name": "levipad",
+			"display_name": "levipad",
+			"geometry": "geometry.customblock",
+			"material_instances": {
+				"*": {
+					"texture": "levi_pad",
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			}
+		},
+		"minecraft:stripped_warped_stem": {
+			"name": "bulbpipe",
+			"display_name": "bluepipe",
+			"state_overrides": {
+				"axis=y": {
+					"geometry": "geometry.customblock_pipe",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_pipe",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"axis=x": {
+					"geometry": "geometry.customblock_pipe",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 90, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "blue_pipe",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"axis=z": {
+					"geometry": "geometry.customblock_pipe",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "blue_pipe",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:exposed_copper_bulb": {
+			"name": "exposedcopperbulb",
+			"display_name": "exposedcopperbulb",
+			"only_override_states": true,
+			"state_overrides": {
+				"lit=false,powered=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_tile_bulb",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"lit=true,powered=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_tile_bulb_on",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:exposed_cut_copper_slab": {
+			"name": "bluetiles",
+			"display_name": "bluetiles",
+			"state_overrides": {
+				"type=bottom,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=top,waterlogged=false": {
+					"geometry": "geometry.customslab_top",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=double,waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:weathered_cut_copper_slab": {
+			"name": "whitetiles",
+			"display_name": "whitetiles",
+			"state_overrides": {
+				"type=bottom,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "white_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=top,waterlogged=false": {
+					"geometry": "geometry.customslab_top",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "white_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"type=double,waterlogged=false": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "white_tiles",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:lightning_rod": {
+			"name": "ironlightningrod",
+			"display_name": "ironlightningrod",
+			"only_override_states": true,
+			"state_overrides": {
+				"facing=up,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=down,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [180, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=north,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 0, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 90, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 180, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=west,powered=false,waterlogged=false": {
+					"geometry": "geometry.customlightningrod",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"transformation": {
+						"rotation": [90, 270, 0]
+					},
+					"material_instances": {
+						"*": {
+							"texture": "iron_lightning_rod",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

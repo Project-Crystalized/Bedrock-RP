@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.laptop.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [60, -40, -50],
+					"position": [-0.3, 19.5, -4],
+					"scale": 0.5
+				}
+			}
+		},
+		"animation.cosmetic.handheld.laptop.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [31.29373, 12.96118, -124.12576],
+					"position": [6.81348, 13.94937, 7.38882],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

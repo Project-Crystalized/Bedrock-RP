@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.star_bubble_wand.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [90, 0, 0],
+					"position": [0.2, 22.8, -3],
+					"scale": 0.75
+				}
+			}
+		},
+		"animation.cosmetic.handheld.star_bubble_wand.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [134.18195, -49.03561, 85.72421],
+					"position": [-0.17858, 23.35027, 3.56412],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

@@ -73,6 +73,15 @@
 					"icon":"poison_orb",
 					"creative_category":"items"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:feather_orb",
+				"bedrock_identifier":"crystalized:feather_orb",
+				"bedrock_options": {
+					"icon":"feather_orb",
+					"creative_category":"items"
+				}
 			}
 		]
 	}

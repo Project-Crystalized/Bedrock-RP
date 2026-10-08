@@ -17,6 +17,118 @@
 				"bedrock_options": {
 					"icon":"cosmetic.handheld.handbag"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/disability_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_disability_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.disability_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/frying_pan_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_frying_pan_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.frying_pan_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/golf_club",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_golf_club",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.golf_club"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/kris_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_kris_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.kris_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/laptop",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_laptop",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.laptop"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/miteda_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_miteda_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.miteda_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/nonbinary_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_nonbinary_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.nonbinary_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/pow",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_pow",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.pow"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/pride_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_pride_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.pride_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/shopping_bag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_shopping_bag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.shopping_bag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/star_bubble_wand",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_star_bubble_wand",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.star_bubble_wand"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/thatladygagasong",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_thatladygagasong",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.thatladygagasong"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/trans_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_trans_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.trans_flag"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/pumpkin_basket",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_pumpkin_basket",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.pumpkin_basket"
+				}
 			}
 		]
 	}

@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.pride_flag.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [90, 0, -90],
+					"position": [-0.3, 19.5, -1],
+					"scale": 0.5
+				}
+			}
+		},
+		"animation.cosmetic.handheld.pride_flag.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [30.50313, -4.2467, -134.38738],
+					"position": [6.81348, 13.94937, 7.38882],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

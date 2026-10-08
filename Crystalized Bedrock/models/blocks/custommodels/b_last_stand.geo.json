@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.custommodel.b_last_stand",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4,
+				"visible_bounds_offset": [0, 1, 0]
+			},
+			"bones": [
+				{
+					"name": "model",
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-1, -16, 0.2],
+							"size": [2, 48, 2],
+							"uv": {
+								"north": {"uv": [62, 0], "uv_size": [2, 37]},
+								"east": {"uv": [60, 0], "uv_size": [2, 37]},
+								"south": {"uv": [62, 0], "uv_size": [2, 37]},
+								"west": {"uv": [62, 0], "uv_size": [2, 37]},
+								"up": {"uv": [46, 33], "uv_size": [-2, -2]},
+								"down": {"uv": [46, 33], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [1.225, -2, -14],
+							"size": [0, 34, 30],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0, 32]},
+								"east": {"uv": [0, 0], "uv_size": [30, 34]},
+								"south": {"uv": [0, 0], "uv_size": [0, 32]},
+								"west": {"uv": [30, 0], "uv_size": [30, 34]},
+								"up": {"uv": [0, 0], "uv_size": [0, 30]},
+								"down": {"uv": [0, 30], "uv_size": [0, -30]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

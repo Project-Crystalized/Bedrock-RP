@@ -1,0 +1,23 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:charcoal": [
+			{
+				"type":"definition",
+				"model":"crystalized:models/knockoff_logo",
+				"bedrock_identifier":"crystalized:custommodel_knockoff_logo",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:models/litestrike_logo",
+				"bedrock_identifier":"crystalized:custommodel_litestrike_logo",
+				"bedrock_options": {
+					"icon":"placeholder"
+				}
+			}
+		]
+	}
+}

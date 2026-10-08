@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.pumpkin_basket.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [0, 0, 0],
+					"position": [-0.3, 15, -1.3],
+					"scale": 0.5
+				}
+			}
+		},
+		"animation.cosmetic.handheld.pumpkin_basket.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [43.00819, -48.35192, -167.61743],
+					"position": [1.50499, 20.00326, 6.97607],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

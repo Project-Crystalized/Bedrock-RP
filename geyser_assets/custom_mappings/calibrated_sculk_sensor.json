@@ -1,0 +1,104 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:calibrated_sculk_sensor": {
+			"name": "calibratedsculksensor",
+			"display_name": "calibratedsculksensor",
+			"only_override_states": true,
+			"state_overrides": {
+				"facing=north,power=15,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "obsidian",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,power=15,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "soul_sand",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,power=15,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom_grass",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "dirt_path_slab",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=west,power=15,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom_grass",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "podzol_path_slab",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+
+				"facing=north,power=14,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "soul_soil",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=east,power=14,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "packed_ice",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"facing=south,power=14,sculk_sensor_phase=cooldown,waterlogged=false": {
+					"geometry": "geometry.customslab_bottom",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "blue_ice",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

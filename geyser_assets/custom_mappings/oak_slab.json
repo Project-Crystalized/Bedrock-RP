@@ -1,0 +1,45 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:oak_slab": {
+			"name": "oakslab",
+			"display_name": "oakslab",
+			"only_override_states": true,
+			"state_overrides": {
+				"type=double,waterlogged=true": {
+					"geometry": "geometry.customblock",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "nexus_rainbow",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:oak_sign": {
+			"name": "oaksign",
+			"display_name": "oaksign",
+			"only_override_states": true,
+			"state_overrides": {
+				"rotation=0,waterlogged=false": {
+					"geometry": "geometry.customflower",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "nexus_rainbow_cluster",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

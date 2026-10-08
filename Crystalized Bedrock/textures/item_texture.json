@@ -5,6 +5,11 @@
     "placeholder": {
       "textures": "textures/crystalized/placeholder"
     },
+
+    "custommodel.ls_shop": {
+      "textures": "textures/crystalized/custommodel/ls_shop/ls_shop_display"
+    },
+
     "invisible": {
       "textures": "textures/crystalized/invisible"
     },
@@ -55,6 +60,9 @@
     },
    "winged_orb": {
       "textures": "textures/crystalized/item/orb/winged_orb"
+    },
+    "feather_orb": {
+      "textures": "textures/crystalized/item/orb/feather_orb"
     },
    "antiair_totem": {
       "textures": "textures/crystalized/item/totem/antiair_totem"
@@ -116,62 +124,17 @@
    "explosive_arrow": {
       "textures": "textures/crystalized/item/arrow/arrow-explosive"
     },
+    "wind_arrow": {
+      "textures": "textures/crystalized/item/arrow/wind_arrow"
+    },
+    "supportive_arrow": {
+      "textures": "textures/crystalized/item/arrow/arrow-supportive"
+    },
    "custommodel.miteda_suck": {
       "textures": "textures/crystalized/custommodel/handheld/miteda_suck_display"
     },
    "custommodel.bomb_toaster": {
       "textures": "textures/crystalized/custommodel/bomb/toaster_display"
-    },
-   "cosmetic.head.merica": {
-      "textures": "textures/crystalized/cosmetic/head/merica_display"
-    },
-   "cosmetic.handheld.merica_flag": {
-      "textures": "textures/crystalized/cosmetic/handheld/merica_flag_display"
-    },
-   "cosmetic.head.beanie": {
-      "textures": "textures/crystalized/cosmetic/head/beanie_display"
-    },
-   "cosmetic.head.fox_beret": {
-      "textures": "textures/crystalized/cosmetic/head/fox_beret_display"
-    },
-   "cosmetic.handheld.handbag": {
-      "textures": "textures/crystalized/cosmetic/handheld/handbag_display"
-    },
-   "shardcorenexus3_blue": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue"
-    },
-   "shardcorenexus3_blue_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue_attention"
-    },
-   "shardcorenexus3_gray": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray"
-    },
-   "shardcorenexus3_gray_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray_attention"
-    },
-   "shardcorenexus3_purple": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple"
-    },
-   "shardcorenexus3_purple_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple_attention"
-    },
-   "shardcorenexus3_augustify": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify"
-    },
-   "shardcorenexus3_augustify_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify_attention"
-    },
-   "shardcorenexus3_abby1": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1"
-    },
-   "shardcorenexus3_abby1_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1_attention"
-    },
-   "shardcorenexus3_shadow1": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1"
-    },
-   "shardcorenexus3_shadow1_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1_attention"
     },
     "hotbar_replay": {
       "textures": "textures/crystalized/item/hotbar_replay"
@@ -199,6 +162,15 @@
     },
     "multi_crossbow_firework": {
       "textures": "textures/crystalized/item/crossbow/multi_crossbow_firework"
+    },
+    "precise_crossbow_standby": {
+      "textures": "textures/crystalized/item/crossbow/precise_crossbow_standby"
+    },
+    "precise_crossbow_arrow": {
+      "textures": "textures/crystalized/item/crossbow/precise_crossbow_arrow"
+    },
+    "precise_crossbow_firework": {
+      "textures": "textures/crystalized/item/crossbow/precise_crossbow_firework"
     },
     "charged_crossbow_standby": {
       "textures": "textures/crystalized/item/crossbow/charged_crossbow_standby"
@@ -239,8 +211,15 @@
     "knockoff_boxing_glove": {
       "textures": "textures/crystalized/item/knockoff_boxing_glo_display"
     },
+    "breeze_dagger": {
+      "textures": "textures/crystalized/item/breeze_dagger"
+    },
+
     "scn3.achivements": {
       "textures": "textures/crystalized/item/scn3/achivements"
+    },
+    "scn3.achivements_blink": {
+      "textures": "textures/crystalized/item/scn3/achivements_blink"
     },
     "scn3.friends": {
       "textures": "textures/crystalized/item/scn3/friends"
@@ -254,8 +233,14 @@
     "scn3.profile": {
       "textures": "textures/crystalized/item/scn3/profile"
     },
+    "scn3.profile_blink": {
+      "textures": "textures/crystalized/item/scn3/profile_blink"
+    },
     "scn3.settings": {
       "textures": "textures/crystalized/item/scn3/settings"
+    },
+    "scn3.settings_blink": {
+      "textures": "textures/crystalized/item/scn3/settings_blink"
     },
     "scn3.shop": {
       "textures": "textures/crystalized/item/scn3/shop"
@@ -269,16 +254,25 @@
     "scn3.games.crystalblitz": {
       "textures": "textures/crystalized/item/scn3/games/crystalblitz"
     },
+    "scn3.games.crystalblitz_blink": {
+      "textures": "textures/crystalized/item/scn3/games/crystalblitz_blink"
+    },
     "scn3.games.knockoff": {
       "textures": "textures/crystalized/item/scn3/games/knockoff"
+    },
+    "scn3.games.knockoff_blink": {
+      "textures": "textures/crystalized/item/scn3/games/knockoff_blink"
     },
     "scn3.games.litestrike": {
       "textures": "textures/crystalized/item/scn3/games/litestrike"
     },
-    "breeze_dagger": {
-      "textures": "textures/crystalized/item/breeze_dagger"
+    "scn3.games.litestrike_blink": {
+      "textures": "textures/crystalized/item/scn3/games/litestrike_blink"
     },
     "scn3.wardrobe": {
+      "textures": "textures/crystalized/item/scn3/wardrobe"
+    },
+    "scn3.wardrobe_blink": {
       "textures": "textures/crystalized/item/scn3/wardrobe"
     },
     "scn3.add": {
@@ -311,6 +305,131 @@
     "scn3.settings.toggle_on": {
       "textures": "textures/crystalized/item/scn3/settings/toggle_on"
     },
+    "scn3.quests": {
+      "textures": "textures/crystalized/item/scn3/quests"
+    },
+    "scn3.quests_blink": {
+      "textures": "textures/crystalized/item/scn3/quests_blink"
+    },
+    "scn3.quests.quest_easy": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_easy"
+    },
+    "scn3.quests.quest_easy_blink": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_easy_blinking"
+    },
+    "scn3.quests.quest_medium": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_medium"
+    },
+    "scn3.quests.quest_medium_blink": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_medium_blinking"
+    },
+    "scn3.quests.quest_hard": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_hard"
+    },
+    "scn3.quests.quest_hard_blink": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_hard_blinking"
+    },
+    "scn3.quests.quest_expert": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_expert"
+    },
+    "scn3.quests.quest_expert_blink": {
+      "textures": "textures/crystalized/item/scn3/quests/quest_expert_blinking"
+    },
+
+    "scn3.achivements.category_general": {
+      "textures": "textures/crystalized/item/scn3/achivements/category_general"
+    },
+    "scn3.achivements.category_general_blinking": {
+      "textures": "textures/crystalized/item/scn3/achivements/category_general_blinking"
+    },
+    "scn3.achivements.locked_easy": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_easy"
+    },
+    "scn3.achivements.locked_easy_blink": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_easy_blink"
+    },
+    "scn3.achivements.locked_medium": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_medium"
+    },
+    "scn3.achivements.locked_medium_blink": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_medium_blink"
+    },
+    "scn3.achivements.locked_hard": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_hard"
+    },
+    "scn3.achivements.locked_hard_blink": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_hard_blink"
+    },
+    "scn3.achivements.locked_expert": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_expert"
+    },
+    "scn3.achivements.locked_expert_blink": {
+      "textures": "textures/crystalized/item/scn3/achivements/locked_expert_blink"
+    },
+
+    "scn3.achivements.ls_ace": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_ace"
+    },
+    "scn3.achivements.ls_lastalive": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_lastalive"
+    },
+    "scn3.achivements.ls_onlyweapons": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_onlyweapons"
+    },
+    "scn3.achivements.ls_quickdefuser": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_quickdefuser"
+    },
+    "scn3.achivements.ls_ricochet": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_ricochet"
+    },
+    "scn3.achivements.ls_win": {
+      "textures": "textures/crystalized/item/scn3/achivements/ls_win"
+    },
+
+    "scn3.achivements.ko_deflector": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_deflector"
+    },
+    "scn3.achivements.ko_flawlesswin": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_flawlesswin"
+    },
+    "scn3.achivements.ko_glovekill": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_glovekill"
+    },
+    "scn3.achivements.ko_grapplekill": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_grapplekill"
+    },
+    "scn3.achivements.ko_unlocker": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_unlocker"
+    },
+    "scn3.achivements.ko_win": {
+      "textures": "textures/crystalized/item/scn3/achivements/ko_win"
+    },
+
+    "scn3.achivements.cb_clutch": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_clutch"
+    },
+    "scn3.achivements.cb_elimeveryone": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_elimeveryone"
+    },
+    "scn3.achivements.cb_everythingbought": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_everythingbought"
+    },
+    "scn3.achivements.cb_nexuscollecter": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_nexuscollecter"
+    },
+    "scn3.achivements.cb_nexusshards": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_nexusshards"
+    },
+    "scn3.achivements.cb_puritarian": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_puritarian"
+    },
+    "scn3.achivements.cb_win": {
+      "textures": "textures/crystalized/item/scn3/achivements/cb_win"
+    },
+
+    "scn3.achivements.general_chesswin": {
+      "textures": "textures/crystalized/item/scn3/achivements/general_chesswin"
+    },
 
     "scn3.profile.addfriend": {
       "textures": "textures/crystalized/item/scn3/profile/addfriend"
@@ -326,6 +445,18 @@
     },
     "scn3.profile.rank_contributor": {
       "textures": "textures/crystalized/item/scn3/profile/rank_contributor"
+    },
+    "scn3.profile.rank_creator": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_creator"
+    },
+    "scn3.profile.rank_moon": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_moon"
+    },
+    "scn3.profile.rank_sun": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_sun"
+    },
+    "scn3.profile.rank_supporter": {
+      "textures": "textures/crystalized/item/scn3/profile/rank_supporter"
     },
     "scn3.profile.rank_mod": {
       "textures": "textures/crystalized/item/scn3/profile/rank_mod"
@@ -398,6 +529,180 @@
     },
     "scn3.profile.xp.16": {
       "textures": "textures/crystalized/item/scn3/profile/xp/16"
+    },
+
+    "cosmetic.handheld.handbag": {
+      "textures": "textures/crystalized/cosmetic/handheld/handbag_display"
+    },
+    "cosmetic.handheld.merica_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/merica_flag_display"
+    },
+    "cosmetic.handheld.disability_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/disability_flag_display"
+    },
+    "cosmetic.handheld.frying_pan_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/frying_pan_flag_display"
+    },
+    "cosmetic.handheld.golf_club": {
+      "textures": "textures/crystalized/cosmetic/handheld/gold_club_display"
+    },
+    "cosmetic.handheld.kris_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/kris_flag_display"
+    },
+    "cosmetic.handheld.laptop": {
+      "textures": "textures/crystalized/cosmetic/handheld/laptop_display"
+    },
+    "cosmetic.handheld.miteda_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/miteda_flag_display"
+    },
+    "cosmetic.handheld.nonbinary_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/nonbinary_flag_display"
+    },
+    "cosmetic.handheld.pow": {
+      "textures": "textures/crystalized/cosmetic/handheld/pow_display"
+    },
+    "cosmetic.handheld.pride_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/pride_flag_display"
+    },
+    "cosmetic.handheld.shopping_bag": {
+      "textures": "textures/crystalized/cosmetic/handheld/shopping_bag_display"
+    },
+    "cosmetic.handheld.star_bubble_wand": {
+      "textures": "textures/crystalized/cosmetic/handheld/star_bubble_wand_display"
+    },
+    "cosmetic.handheld.thatladygagasong": {
+      "textures": "textures/crystalized/cosmetic/handheld/thatladygagasong_display"
+    },
+    "cosmetic.handheld.trans_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/trans_flag_display"
+    },
+    "cosmetic.handheld.pumpkin_basket": {
+      "textures": "textures/crystalized/cosmetic/handheld/pumpkin_basket_display"
+    },
+
+    "cosmetic.head.merica": {
+      "textures": "textures/crystalized/cosmetic/head/merica_display"
+    },
+    "cosmetic.head.beanie": {
+      "textures": "textures/crystalized/cosmetic/head/beanie_display"
+    },
+    "cosmetic.head.fox_beret": {
+      "textures": "textures/crystalized/cosmetic/head/fox_beret_display"
+    },
+    "cosmetic.head.axolotl_hat": {
+      "textures": "textures/crystalized/cosmetic/head/axolotl_hat_display"
+    },
+    "cosmetic.head.black_cat_beanie": {
+      "textures": "textures/crystalized/cosmetic/head/black_cat_beanie_display"
+    },
+    "cosmetic.head.captain_hat": {
+      "textures": "textures/crystalized/cosmetic/head/captain_hat_display"
+    },
+    "cosmetic.head.craftmaster_hat": {
+      "textures": "textures/crystalized/cosmetic/head/craftmaster_hat_display"
+    },
+    "cosmetic.head.crown": {
+      "textures": "textures/crystalized/cosmetic/head/crown_display"
+    },
+    "cosmetic.head.dragon": {
+      "textures": "textures/crystalized/cosmetic/head/dragon_display"
+    },
+    "cosmetic.head.headphones": {
+      "textures": "textures/crystalized/cosmetic/head/headphones_display"
+    },
+    "cosmetic.head.lemon_cap": {
+      "textures": "textures/crystalized/cosmetic/head/lemon_cap_display"
+    },
+    "cosmetic.head.ls_headband": {
+      "textures": "textures/crystalized/cosmetic/head/ls_headband_display"
+    },
+    "cosmetic.head.master_bandana": {
+      "textures": "textures/crystalized/cosmetic/head/master_bandana_display"
+    },
+    "cosmetic.head.sunglasses": {
+      "textures": "textures/crystalized/cosmetic/head/sunglasses_display"
+    },
+    "cosmetic.head.shardcorevr": {
+      "textures": "textures/crystalized/cosmetic/head/shardcorevr_display"
+    },
+    "cosmetic.head.cricket_hat": {
+      "textures": "textures/crystalized/cosmetic/head/cricket_hat_display"
+    },
+    "cosmetic.head.medusa": {
+      "textures": "textures/crystalized/cosmetic/head/medusa_display"
+    },
+    "cosmetic.head.wolf_mask": {
+      "textures": "textures/crystalized/cosmetic/head/wolf_mask_display"
+    },
+    "cosmetic.head.hamster": {
+      "textures": "textures/crystalized/cosmetic/head/hamster_display"
+    },
+    "cosmetic.head.bee_hat": {
+      "textures": "textures/crystalized/cosmetic/head/bee_hat_display"
+    },
+    "cosmetic.head.chicken_hat": {
+      "textures": "textures/crystalized/cosmetic/head/chicken_hat_display"
+    },
+    "cosmetic.head.fox_hat": {
+      "textures": "textures/crystalized/cosmetic/head/fox_hat_display"
+    },
+    "cosmetic.head.mini_deer_hat": {
+      "textures": "textures/crystalized/cosmetic/head/mini_deer_hat_display"
+    },
+    "cosmetic.head.skeleton_dog_hat": {
+      "textures": "textures/crystalized/cosmetic/head/skeleton_dog_hat_display"
+    },
+    "cosmetic.head.wolf_hat": {
+      "textures": "textures/crystalized/cosmetic/head/wolf_hat_display"
+    },
+
+    "shardcorenexus3_blue": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue"
+    },
+    "shardcorenexus3_blue_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue_attention"
+    },
+    "shardcorenexus3_gray": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray"
+    },
+    "shardcorenexus3_gray_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray_attention"
+    },
+    "shardcorenexus3_purple": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple"
+    },
+    "shardcorenexus3_purple_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple_attention"
+    },
+    "shardcorenexus3_augustify": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify"
+    },
+    "shardcorenexus3_augustify_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify_attention"
+    },
+    "shardcorenexus3_abby1": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1"
+    },
+    "shardcorenexus3_abby1_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1_attention"
+    },
+    "shardcorenexus3_shadow1": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1"
+    },
+    "shardcorenexus3_shadow1_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1_attention"
+    },
+    "shardcorenexus3_ls": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_ls"
+    },
+    "shardcorenexus3_ls_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_ls_attention"
+    },
+    "shardcorenexus3_mite": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_mite"
+    },
+    "shardcorenexus3_mite_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_mite_attention"
     }
 
   }

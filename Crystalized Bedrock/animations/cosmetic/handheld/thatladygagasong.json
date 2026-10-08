@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.thatladygagasong.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [180, 2.5, -180],
+					"position": [0.4, 21.8, -8],
+					"scale": 0.75
+				}
+			}
+		},
+		"animation.cosmetic.handheld.thatladygagasong.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [144.27624, -58.0425, 164.46299],
+					"position": [-7.37946, 16.83858, -1.60746],
+					"scale": 1.5
+				}
+			}
+		}
+	}
+}

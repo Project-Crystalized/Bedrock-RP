@@ -1,0 +1,52 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.cosmetic.handheld.thatladygagasong",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "model",
+					"pivot": [0, 0, 0],
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
+					"cubes": [
+						{
+							"origin": [-2, 0, -7],
+							"size": [4, 1, 7],
+							"uv": {
+								"north": {"uv": [0, 8], "uv_size": [4, 1]},
+								"east": {"uv": [0, 7], "uv_size": [7, 1]},
+								"south": {"uv": [8, 0], "uv_size": [4, 1]},
+								"west": {"uv": [7, 7], "uv_size": [7, 1]},
+								"up": {"uv": [0, 0], "uv_size": [4, 7]},
+								"down": {"uv": [4, 7], "uv_size": [4, -7]}
+							}
+						}
+					]
+				}
+			],
+			"item_display_transforms": {
+				"thirdperson_righthand": {
+					"rotation": [90, -180, 0],
+					"translation": [0, 7, 8],
+					"scale": [1, 1, 1],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				},
+				"thirdperson_lefthand": {
+					"rotation": [90, -180, 0],
+					"translation": [0, 7, 8],
+					"scale": [1, 1, 1],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				}
+			}
+		}
+	]
+}

@@ -25,6 +25,182 @@
 				"bedrock_options": {
 					"icon":"cosmetic.head.fox_beret"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/axolotl_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_axolotl_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.axolotl_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/black_cat_beanie",
+				"bedrock_identifier":"crystalized:cosmetic_head_black_cat_beanie",
+				"bedrock_options": {
+					"icon":"cosmetic.head.black_cat_beanie"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/captain_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_captain_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.captain_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/craftmaster_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_craftmaster_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.craftmaster_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/crown",
+				"bedrock_identifier":"crystalized:cosmetic_head_crown",
+				"bedrock_options": {
+					"icon":"cosmetic.head.crown"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/dragon",
+				"bedrock_identifier":"crystalized:cosmetic_head_dragon",
+				"bedrock_options": {
+					"icon":"cosmetic.head.dragon"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/headphones",
+				"bedrock_identifier":"crystalized:cosmetic_head_headphones",
+				"bedrock_options": {
+					"icon":"cosmetic.head.headphones"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/lemon_cap",
+				"bedrock_identifier":"crystalized:cosmetic_head_lemon_cap",
+				"bedrock_options": {
+					"icon":"cosmetic.head.lemon_cap"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/ls_headband",
+				"bedrock_identifier":"crystalized:cosmetic_head_ls_headband",
+				"bedrock_options": {
+					"icon":"cosmetic.head.ls_headband"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/master_bandana",
+				"bedrock_identifier":"crystalized:cosmetic_head_master_bandana",
+				"bedrock_options": {
+					"icon":"cosmetic.head.master_bandana"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/sunglasses",
+				"bedrock_identifier":"crystalized:cosmetic_head_sunglasses",
+				"bedrock_options": {
+					"icon":"cosmetic.head.sunglasses"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/shardcorevr",
+				"bedrock_identifier":"crystalized:cosmetic_head_shardcorevr",
+				"bedrock_options": {
+					"icon":"cosmetic.head.shardcorevr"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/cricket_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_cricket_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.cricket_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/medusa",
+				"bedrock_identifier":"crystalized:cosmetic_head_medusa",
+				"bedrock_options": {
+					"icon":"cosmetic.head.medusa"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/wolf_mask",
+				"bedrock_identifier":"crystalized:cosmetic_head_wolf_mask",
+				"bedrock_options": {
+					"icon":"cosmetic.head.wolf_mask"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/bee_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_bee_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.bee_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/chicken_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_chicken_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.chicken_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/fox_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_fox_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.fox_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/mini_deer_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_mini_deer_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.mini_deer_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/skeleton_dog_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_skeleton_dog_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.skeleton_dog_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/wolf_hat",
+				"bedrock_identifier":"crystalized:cosmetic_head_wolf_hat",
+				"bedrock_options": {
+					"icon":"cosmetic.head.wolf_hat"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/hamster",
+				"bedrock_identifier":"crystalized:cosmetic_head_hamster",
+				"bedrock_options": {
+					"icon":"cosmetic.head.hamster"
+				}
 			}
 		]
 	}

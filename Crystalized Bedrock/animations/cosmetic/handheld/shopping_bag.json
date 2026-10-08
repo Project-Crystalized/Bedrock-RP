@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.shopping_bag.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [90, 90, 90],
+					"position": [0.2, 16.8, -1],
+					"scale": 0.6
+				}
+			}
+		},
+		"animation.cosmetic.handheld.shopping_bag.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [153.15104, 16.41774, 38.8469],
+					"position": [1.13951, 24.57987, 4.43057],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

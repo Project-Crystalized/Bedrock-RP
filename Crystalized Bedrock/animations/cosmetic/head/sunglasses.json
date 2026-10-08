@@ -1,0 +1,15 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.head.sunglasses.head": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [0, -90, 0],
+					"position": [0, 23.4, 0],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

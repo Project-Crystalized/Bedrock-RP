@@ -126,6 +126,14 @@
 		"crystalized:effect.ambient.car_horn_tubnet": {
 			"category": "ui",
 			"sounds": ["sounds/effects/ambient/car_horn_tubnet"]
+		},
+		"crystalized:effect.hazard_positive": {
+			"category": "ui",
+			"sounds": ["sounds/effects/hazard_positive"]
+		},
+		"crystalized:effect.level_up": {
+			"category": "ui",
+			"sounds": ["sounds/effects/level_up"]
 		}
 	}
 }

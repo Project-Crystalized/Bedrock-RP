@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.head.medusa.head": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"position": [0, 23, 1],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

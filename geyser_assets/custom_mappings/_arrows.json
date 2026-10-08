@@ -19,6 +19,24 @@
 					"icon":"explosive_arrow",
 					"creative_category":"items"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:wind_arrow",
+				"bedrock_identifier":"crystalized:wind_arrow",
+				"bedrock_options": {
+					"icon":"wind_arrow",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:supportive_arrow",
+				"bedrock_identifier":"crystalized:supportive_arrow",
+				"bedrock_options": {
+					"icon":"supportive_arrow",
+					"creative_category":"items"
+				}
 			}
 		]
 	}

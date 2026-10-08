@@ -1,0 +1,35 @@
+{
+	"standard_title_label": {
+		"type": "label",
+		"size": [ "default", 10 ],
+		"$title_max_size|default": [ "default", 10 ],
+		"max_size": "$title_max_size",
+		"color": "$title_text_color",
+		"text": "#text",
+		"layer": 4,
+		"shadow": false,
+		"property_bag": {
+			"#tts_dialog_title": "#text"
+		},
+		"bindings": [
+			{ //useless binding I copied from vanilla lol
+				"binding_type": "$title_text_binding_type",
+				"binding_condition": "$title_binding_condition",
+				"binding_name": "$text_name",
+				"binding_name_override": "$text_name"
+			},
+			{
+				"binding_type": "global",
+				"binding_condition": "once",
+				"binding_name": "#tts_dialog_title"
+			},
+
+			//stupid shit, see server_form.json for what this is for
+			{
+				"binding_type": "view",
+				"source_property_name": "(#title_text - 'cry_grid2;')",
+				"target_property_name": "#text"
+			}
+		]
+	}
+}

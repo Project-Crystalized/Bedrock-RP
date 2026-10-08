@@ -3,13 +3,34 @@
 	"items": {
 		"minecraft:coal": [
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/achivements",
-				"bedrock_identifier":"crystalized:ui_scn3_achivements",
-				"bedrock_options": {
-					"icon":"scn3.achivements",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements",
+						"bedrock_options": {
+							"icon":"scn3.achivements",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
 				"type":"definition",
@@ -39,22 +60,64 @@
 				}
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/profile",
-				"bedrock_identifier":"crystalized:ui_scn3_profile",
-				"bedrock_options": {
-					"icon":"scn3.profile",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_profile",
+						"bedrock_options": {
+							"icon":"scn3.profile",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_profile_blink",
+						"bedrock_options": {
+							"icon":"scn3.profile_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/settings",
-				"bedrock_identifier":"crystalized:ui_scn3_settings",
-				"bedrock_options": {
-					"icon":"scn3.settings",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_settings",
+						"bedrock_options": {
+							"icon":"scn3.settings",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_settings_blink",
+						"bedrock_options": {
+							"icon":"scn3.settings_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
 				"type":"definition",
@@ -84,31 +147,94 @@
 				}
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/games/crystalblitz",
-				"bedrock_identifier":"crystalized:ui_scn3_games/crystalblitz",
-				"bedrock_options": {
-					"icon":"scn3.games.crystalblitz",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_crystalblitz",
+						"bedrock_options": {
+							"icon":"scn3.games.crystalblitz",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_crystalblitz_blink",
+						"bedrock_options": {
+							"icon":"scn3.games.crystalblitz_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/games/knockoff",
-				"bedrock_identifier":"crystalized:ui_scn3_games/knockoff",
-				"bedrock_options": {
-					"icon":"scn3.games.knockoff",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_knockoff",
+						"bedrock_options": {
+							"icon":"scn3.games.knockoff",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_knockoff_blink",
+						"bedrock_options": {
+							"icon":"scn3.games.knockoff_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/games/litestrike",
-				"bedrock_identifier":"crystalized:ui_scn3_games/litestrike",
-				"bedrock_options": {
-					"icon":"scn3.games.litestrike",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_litestrike",
+						"bedrock_options": {
+							"icon":"scn3.games.litestrike",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_games_litestrike_blink",
+						"bedrock_options": {
+							"icon":"scn3.games.litestrike_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
 				"type":"definition",
@@ -119,13 +245,34 @@
 				}
 			},
 			{
-				"type":"definition",
+				"type":"group",
 				"model":"crystalized:ui/scn3/wardrobe",
-				"bedrock_identifier":"crystalized:ui_scn3_wardrobe",
-				"bedrock_options": {
-					"icon":"scn3.wardrobe",
-					"creative_category":"items"
-				}
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_wardrobe",
+						"bedrock_options": {
+							"icon":"scn3.wardrobe",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_wardrobe_blink",
+						"bedrock_options": {
+							"icon":"scn3.wardrobe",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
 			},
 			{
 				"type":"definition",
@@ -282,6 +429,42 @@
 			},
 			{
 				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/rank_moon",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_rank_moon",
+				"bedrock_options": {
+					"icon":"scn3.profile.rank_moon",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/rank_sun",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_rank_sun",
+				"bedrock_options": {
+					"icon":"scn3.profile.rank_sun",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/rank_supporter",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_rank_supporter",
+				"bedrock_options": {
+					"icon":"scn3.profile.rank_supporter",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/profile/rank_creator",
+				"bedrock_identifier":"crystalized:ui_scn3_profile_rank_creator",
+				"bedrock_options": {
+					"icon":"scn3.profile.rank_creator",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
 				"model":"crystalized:ui/scn3/profile/info/cb",
 				"bedrock_identifier":"crystalized:ui_scn3_profile_info_cb",
 				"bedrock_options": {
@@ -325,6 +508,157 @@
 					"creative_category":"items"
 				}
 			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/quests",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests",
+						"bedrock_options": {
+							"icon":"scn3.quests",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_blink",
+						"bedrock_options": {
+							"icon":"scn3.quests_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/quests/quest_easy",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_easy",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_easy",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_easy_blink",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_easy_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/quests/quest_medium",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_medium",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_medium",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_medium_blink",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_medium_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/quests/quest_hard",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_hard",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_hard",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_hard_blink",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_hard_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/quests/quest_expert",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_expert",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_expert",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_quests_quest_expert_blink",
+						"bedrock_options": {
+							"icon":"scn3.quests.quest_expert_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+
 			{
 				"type":"definition",
 				"model":"crystalized:ui/scn3/profile/xp/0",

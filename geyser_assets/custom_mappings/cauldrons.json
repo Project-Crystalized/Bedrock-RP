@@ -1,0 +1,45 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:powder_snow_cauldron": {
+			"name": "snowcauldron",
+			"display_name": "snowcauldron",
+			"only_override_states": true,
+			"state_overrides": {
+				"level=1": {
+					"geometry": "geometry.customblock_cauldron",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "copper_sink",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		},
+		"minecraft:water_cauldron": {
+			"name": "watercauldron",
+			"display_name": "watercauldron",
+			"only_override_states": true,
+			"state_overrides": {
+				"level=1": {
+					"geometry": "geometry.customblock_compoundcreator",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "compound_creator",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

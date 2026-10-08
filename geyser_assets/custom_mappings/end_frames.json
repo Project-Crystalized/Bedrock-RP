@@ -1,0 +1,38 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:end_portal_frame": {
+			"name": "endframes",
+			"display_name": "endframes",
+			"only_override_states": true,
+			"state_overrides": {
+				"eye=false,facing=north": {
+					"geometry": "geometry.customblock_endframe",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "end_stone",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				},
+				"eye=false,facing=east": {
+					"geometry": "geometry.customblock_endframe",
+					"destructible_by_mining": 10,
+					"place_air": false,
+					"material_instances": {
+						"*": {
+							"texture": "diorite",
+							"render_method": "alpha_test",
+							"face_dimming": true,
+							"ambient_occlusion": true
+						}
+					}
+				}
+			}
+		}
+	}
+}

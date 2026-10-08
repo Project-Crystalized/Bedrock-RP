@@ -1,0 +1,322 @@
+{
+	"format_version": 2,
+	"items": {
+		"minecraft:coal": [
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/achivements/category_general",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_category_general",
+						"bedrock_options": {
+							"icon":"scn3.achivements.category_general",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_category_general_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements.category_general_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/achivements/locked_easy",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_easy",
+						"bedrock_options": {
+							"icon":"scn3.achivements.locked_easy",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_easy_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements_locked_easy_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/achivements/locked_medium",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_medium",
+						"bedrock_options": {
+							"icon":"scn3.achivements.locked_medium",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_medium_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements_locked_medium_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/achivements/locked_hard",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_hard",
+						"bedrock_options": {
+							"icon":"scn3.achivements.locked_hard",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_hard_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements_locked_hard_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+			{
+				"type":"group",
+				"model":"crystalized:ui/scn3/achivements/locked_expert",
+				"definitions": [
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_expert",
+						"bedrock_options": {
+							"icon":"scn3.achivements.locked_expert",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 0.0
+						}
+					},
+					{
+						"bedrock_identifier":"crystalized:ui_scn3_achivements_locked_expert_blink",
+						"bedrock_options": {
+							"icon":"scn3.achivements_locked_expert_blink",
+							"creative_category":"items"
+						},
+						"predicate": {
+							"type":"range_dispatch",
+							"property":"custom_model_data",
+							"threshold": 1.0
+						}
+					}
+				]
+			},
+
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ls_ace",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ls_ace",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ls_ace",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ls_lastalive",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ls_lastalive",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ls_lastalive",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ls_onlyweapons",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ls_onlyweapons",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ls_onlyweapons",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ls_quickdefuser",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ls_quickdefuser",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ls_quickdefuser",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ls_ricochet",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ls_ricochet",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ls_ricochet",
+					"creative_category":"items"
+				}
+			},
+
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_deflector",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_deflector",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_deflector",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_flawlesswin",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_flawlesswin",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_flawlesswin",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_glovekill",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_glovekill",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_glovekill",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_grapplekill",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_grapplekill",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_grapplekill",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_unlocker",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_unlocker",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_unlocker",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/ko_win",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_ko_win",
+				"bedrock_options": {
+					"icon":"scn3.achivements.ko_win",
+					"creative_category":"items"
+				}
+			},
+
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_clutch",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_clutch",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_clutch",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_elimeveryone",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_elimeveryone",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_elimeveryone",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_everythingbought",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_everythingbought",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_everythingbought",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_nexuscollecter",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_nexuscollecter",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_nexuscollecter",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_nexusshards",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_nexusshards",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_nexusshards",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_puritarian",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_puritarian",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_puritarian",
+					"creative_category":"items"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:ui/scn3/achivements/cb_win",
+				"bedrock_identifier":"crystalized:ui_scn3_achivements_cb_win",
+				"bedrock_options": {
+					"icon":"scn3.achivements.cb_win",
+					"creative_category":"items"
+				}
+			}
+		]
+	}
+}

@@ -4,6 +4,19 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"cut_sandstone_slab_top": {
+			"textures": "textures/blocks/moss_block"
+		},
+		"cut_sandstone_slab_side": {
+			"textures": "textures/blocks/moss_block"
+		},
+		"cut_red_sandstone_slab_top": {
+			"textures": "textures/blocks/dirt"
+		},
+		"cut_red_sandstone_slab_side": {
+			"textures": "textures/blocks/dirt"
+		},
+
 		"invisible": {
 			"textures": "textures/crystalized/invisible"
 		},
@@ -48,6 +61,69 @@
 		},
 		"node_weak": {
 			"textures": "textures/crystalized/block/node_weak"
+		},
+		"nexus_rainbow": {
+			"textures": "textures/crystalized/block/nexus_rainbow"
+		},
+		"nexus_rainbow_cluster": {
+			"textures": "textures/crystalized/block/nexus_rainbow_cluster"
+		},
+		"dirt_path_slab": {
+			"textures": "textures/crystalized/block/dirt_path_slab"
+		},
+		"podzol_path_slab": {
+			"textures": "textures/crystalized/block/podzol_path_slab"
+		},
+		"levi_pad": {
+			"textures": "textures/crystalized/block/levi_pad"
+		},
+		"boost_pad": {
+			"textures": "textures/crystalized/block/boost_pad"
+		},
+		"jump_pad": {
+			"textures": "textures/crystalized/block/jump_pad"
+		},
+		"iron_grate": {
+			"textures": "textures/crystalized/block/iron_grate"
+		},
+		"iron_lightning_rod": {
+			"textures": "textures/crystalized/block/iron_lightning_rod"
+		},
+		"blue_tiles": {
+			"textures": "textures/crystalized/block/blue_tiles"
+		},
+		"blue_pipe": {
+			"textures": "textures/crystalized/block/blue_pipe"
+		},
+		"blue_tile_bulb": {
+			"textures": "textures/crystalized/block/blue_tile_bulb"
+		},
+		"blue_tile_bulb_on": {
+			"textures": "textures/crystalized/block/blue_tile_bulb_on"
+		},
+		"white_tiles": {
+			"textures": "textures/crystalized/block/white_tiles"
+		},
+		"amethyst_lantern": {
+			"textures": "textures/crystalized/block/amethyst_lantern"
+		},
+		"copper_sink": {
+			"textures": "textures/crystalized/block/copper_sink"
+		},
+		"compound_creator": {
+			"textures": "textures/crystalized/block/compound_creator"
+		},
+		"element_constructor": {
+			"textures": "textures/crystalized/block/element_constructor"
+		},
+		"lab_table": {
+			"textures": "textures/crystalized/block/lab_table"
+		},
+		"material_reducer": {
+			"textures": "textures/crystalized/block/material_reducer"
+		},
+		"underwater_tnt": {
+			"textures": "textures/crystalized/block/underwater_tnt"
 		}
 	}
 }

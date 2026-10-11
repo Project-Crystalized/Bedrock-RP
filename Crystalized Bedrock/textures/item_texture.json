@@ -579,6 +579,9 @@
     "cosmetic.handheld.pumpkin_basket": {
       "textures": "textures/crystalized/cosmetic/handheld/pumpkin_basket_display"
     },
+    "cosmetic.handheld.lesbian_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/lesbian_flag_display"
+    },
 
     "cosmetic.head.merica": {
       "textures": "textures/crystalized/cosmetic/head/merica_display"
@@ -654,6 +657,54 @@
     },
     "cosmetic.head.wolf_hat": {
       "textures": "textures/crystalized/cosmetic/head/wolf_hat_display"
+    },
+    "cosmetic.head.cat_ears": {
+      "textures": "textures/crystalized/cosmetic/head/cat_ears_display"
+    },
+    "cosmetic.head.dog_bowl": {
+      "textures": "textures/crystalized/cosmetic/head/dog_bowl_display"
+    },
+    "cosmetic.head.mole_rat_hat": {
+      "textures": "textures/crystalized/cosmetic/head/mole_rat_hat_display"
+    },
+    "cosmetic.head.axolotl_hat_2": {
+      "textures": "textures/crystalized/cosmetic/head/axolotl_hat_2_display"
+    },
+    "cosmetic.head.bunny_ears": {
+      "textures": "textures/crystalized/cosmetic/head/bunny_ears_display"
+    },
+    "cosmetic.head.cat_hat": {
+      "textures": "textures/crystalized/cosmetic/head/cat_hat_display"
+    },
+    "cosmetic.head.cow_hat": {
+      "textures": "textures/crystalized/cosmetic/head/cow_hat_display"
+    },
+    "cosmetic.head.deer_ears": {
+      "textures": "textures/crystalized/cosmetic/head/deer_ears_display"
+    },
+    "cosmetic.head.frog_hat": {
+      "textures": "textures/crystalized/cosmetic/head/frog_hat_display"
+    },
+    "cosmetic.head.panda_hat": {
+      "textures": "textures/crystalized/cosmetic/head/panda_hat_display"
+    },
+    "cosmetic.head.pig_hat": {
+      "textures": "textures/crystalized/cosmetic/head/pig_hat_display"
+    },
+    "cosmetic.head.panda_hat": {
+      "textures": "textures/crystalized/cosmetic/head/panda_hat_display"
+    },
+    "cosmetic.head.rabbit_hat": {
+      "textures": "textures/crystalized/cosmetic/head/rabbit_hat_display"
+    },
+    "cosmetic.head.rat_hat": {
+      "textures": "textures/crystalized/cosmetic/head/rat_hat_display"
+    },
+    "cosmetic.head.shark_hat": {
+      "textures": "textures/crystalized/cosmetic/head/shark_hat_display"
+    },
+    "cosmetic.head.sheep_hat": {
+      "textures": "textures/crystalized/cosmetic/head/sheep_hat_display"
     },
 
     "shardcorenexus3_blue": {

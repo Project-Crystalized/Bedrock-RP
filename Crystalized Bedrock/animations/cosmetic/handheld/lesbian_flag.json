@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.handheld.lesbian_flag.thirdperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [90, 0, 90],
+					"position": [0, 21, 0],
+					"scale": 0.7
+				}
+			}
+		},
+		"animation.cosmetic.handheld.lesbian_flag.firstperson_mainhand": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"rotation": [153, 6, -318],
+					"position": [7.53055, 15.76664, 8.98354],
+					"scale": 1
+				}
+			}
+		}
+	}
+}

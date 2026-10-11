@@ -1,0 +1,14 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.cosmetic.head.cat_ears.head": {
+			"loop": true,
+			"bones": {
+				"model": {
+					"position": [0, 28, 5],
+					"scale": 0.6
+				}
+			}
+		}
+	}
+}

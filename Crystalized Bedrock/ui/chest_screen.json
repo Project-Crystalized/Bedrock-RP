@@ -104,7 +104,7 @@
     "visible":"(not ($localtitle - 'ꀑ' = $localtitle))"
   },
 
-  "callum_shardcorenexus3_achivements_stats@ofunnys_chest_panel": {
+  "callum_shardcorenexus3_stats@ofunnys_chest_panel": {
     "texture":"textures/ui/inventory/shardcorenexus3_stats",
     "visible":"(not ($localtitle - 'ꀒ' = $localtitle))"
   },
@@ -120,7 +120,7 @@
   },
 
   "callum_shardcorenexus3_achivements_categoryselect@ofunnys_chest_panel": {
-    "texture":"textures/ui/inventory/shardcorenexus3_quests",
+    "texture":"textures/ui/inventory/shardcorenexus3_achivements_categoryselect",
     "visible":"(not ($localtitle - 'ꀕ' = $localtitle))"
   },
 

@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"items": {
-		"minecraft:charcoal": [
+		"minecraft:coal": [
 			{
 				"type":"definition",
 				"model":"crystalized:cosmetic/handheld/merica_flag",
@@ -60,7 +60,7 @@
 			},
 			{
 				"type":"definition",
-				"model":"crystalized:cosmetic/handheld/miteda_flag",
+				"model":"crystalized:cosmetic/handheld/bi_flag",
 				"bedrock_identifier":"crystalized:cosmetic_handheld_miteda_flag",
 				"bedrock_options": {
 					"icon":"cosmetic.handheld.miteda_flag"
@@ -128,6 +128,22 @@
 				"bedrock_identifier":"crystalized:cosmetic_handheld_pumpkin_basket",
 				"bedrock_options": {
 					"icon":"cosmetic.handheld.pumpkin_basket"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/thicc_laptop",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_thicc_laptop",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.thicc_laptop"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/lesbian_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_lesbian_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.lesbian_flag"
 				}
 			}
 		]

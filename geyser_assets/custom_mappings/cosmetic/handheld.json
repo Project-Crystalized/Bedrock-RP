@@ -145,6 +145,14 @@
 				"bedrock_options": {
 					"icon":"cosmetic.handheld.lesbian_flag"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/handheld/achillean_flag",
+				"bedrock_identifier":"crystalized:cosmetic_handheld_achillean_flag",
+				"bedrock_options": {
+					"icon":"cosmetic.handheld.achillean_flag"
+				}
 			}
 		]
 	}

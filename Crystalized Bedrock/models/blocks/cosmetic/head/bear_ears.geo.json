@@ -1,0 +1,129 @@
+{
+	"format_version": "1.21.20",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.cosmetic.head.bear_ears",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "model",
+					"pivot": [0, 0, 0],
+					"binding": "c.item_slot == 'head' ? 'head' : q.item_slot_to_bone_name(c.item_slot)",
+					"cubes": [
+						{
+							"origin": [-5, 9, -1],
+							"size": [1, 2, 1],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [2, 4]},
+								"east": {"uv": [2, 0], "uv_size": [2, 4]},
+								"south": {"uv": [0, 4], "uv_size": [2, 4]},
+								"west": {"uv": [4, 0], "uv_size": [2, 4]},
+								"up": {"uv": [2, 10], "uv_size": [-2, -2]},
+								"down": {"uv": [10, 2], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-3, 9, -1],
+							"size": [1, 2, 1],
+							"uv": {
+								"north": {"uv": [2, 4], "uv_size": [2, 4]},
+								"east": {"uv": [4, 4], "uv_size": [2, 4]},
+								"south": {"uv": [6, 0], "uv_size": [2, 4]},
+								"west": {"uv": [6, 4], "uv_size": [2, 4]},
+								"up": {"uv": [4, 10], "uv_size": [-2, -2]},
+								"down": {"uv": [10, 4], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-4, 10, -1],
+							"size": [1, 1, 1],
+							"uv": {
+								"north": {"uv": [4, 8], "uv_size": [2, 2]},
+								"east": {"uv": [8, 4], "uv_size": [2, 2]},
+								"south": {"uv": [6, 8], "uv_size": [2, 2]},
+								"west": {"uv": [8, 6], "uv_size": [2, 2]},
+								"up": {"uv": [10, 10], "uv_size": [-2, -2]},
+								"down": {"uv": [2, 12], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-4, 9, 0],
+							"size": [1, 1, 0],
+							"uv": {
+								"north": {"uv": [10, 0], "uv_size": [2, 2]},
+								"east": {"uv": [0, 0], "uv_size": [0, 2]},
+								"south": {"uv": [2, 10], "uv_size": [2, 2]},
+								"west": {"uv": [0, 0], "uv_size": [0, 2]},
+								"up": {"uv": [2, 0], "uv_size": [-2, 0]},
+								"down": {"uv": [2, 0], "uv_size": [-2, 0]}
+							}
+						},
+						{
+							"origin": [3, 9, -1],
+							"size": [1, 2, 1],
+							"uv": {
+								"north": {"uv": [2, 0], "uv_size": [-2, 4]},
+								"east": {"uv": [6, 0], "uv_size": [-2, 4]},
+								"south": {"uv": [2, 4], "uv_size": [-2, 4]},
+								"west": {"uv": [4, 0], "uv_size": [-2, 4]},
+								"up": {"uv": [0, 10], "uv_size": [2, -2]},
+								"down": {"uv": [8, 2], "uv_size": [2, -2]}
+							}
+						},
+						{
+							"origin": [1, 9, -1],
+							"size": [1, 2, 1],
+							"uv": {
+								"north": {"uv": [4, 4], "uv_size": [-2, 4]},
+								"east": {"uv": [8, 4], "uv_size": [-2, 4]},
+								"south": {"uv": [8, 0], "uv_size": [-2, 4]},
+								"west": {"uv": [6, 4], "uv_size": [-2, 4]},
+								"up": {"uv": [2, 10], "uv_size": [2, -2]},
+								"down": {"uv": [8, 4], "uv_size": [2, -2]}
+							}
+						},
+						{
+							"origin": [2, 10, -1],
+							"size": [1, 1, 1],
+							"uv": {
+								"north": {"uv": [6, 8], "uv_size": [-2, 2]},
+								"east": {"uv": [10, 6], "uv_size": [-2, 2]},
+								"south": {"uv": [8, 8], "uv_size": [-2, 2]},
+								"west": {"uv": [10, 4], "uv_size": [-2, 2]},
+								"up": {"uv": [8, 10], "uv_size": [2, -2]},
+								"down": {"uv": [0, 12], "uv_size": [2, -2]}
+							}
+						},
+						{
+							"origin": [2, 9, 0],
+							"size": [1, 1, 0],
+							"uv": {
+								"north": {"uv": [12, 0], "uv_size": [-2, 2]},
+								"east": {"uv": [0, 0], "uv_size": [0, 2]},
+								"south": {"uv": [4, 10], "uv_size": [-2, 2]},
+								"west": {"uv": [0, 0], "uv_size": [0, 2]},
+								"up": {"uv": [0, 0], "uv_size": [2, 0]},
+								"down": {"uv": [0, 0], "uv_size": [2, 0]}
+							}
+						}
+					]
+				}
+			],
+			"item_display_transforms": {
+				"head": {
+					"rotation": [0, 0, 0],
+					"translation": [-0.5, 5, -4],
+					"scale": [1.16992, 1.45703, 1.46094],
+					"rotation_pivot": [0, 0, 0],
+					"scale_pivot": [0, 0, 0]
+				}
+			}
+		}
+	]
+}

@@ -582,6 +582,9 @@
     "cosmetic.handheld.lesbian_flag": {
       "textures": "textures/crystalized/cosmetic/handheld/lesbian_flag_display"
     },
+    "cosmetic.handheld.achillean_flag": {
+      "textures": "textures/crystalized/cosmetic/handheld/achillean_flag_display"
+    },
 
     "cosmetic.head.merica": {
       "textures": "textures/crystalized/cosmetic/head/merica_display"
@@ -706,54 +709,84 @@
     "cosmetic.head.sheep_hat": {
       "textures": "textures/crystalized/cosmetic/head/sheep_hat_display"
     },
+    "cosmetic.head.antlers": {
+      "textures": "textures/crystalized/cosmetic/head/antlers_display"
+    },
+    "cosmetic.head.bear_ears": {
+      "textures": "textures/crystalized/cosmetic/head/bear_ears_display"
+    },
+    "cosmetic.head.devil_horns": {
+      "textures": "textures/crystalized/cosmetic/head/devil_horns_display"
+    },
+    "cosmetic.head.ladycat_plushy": {
+      "textures": "textures/crystalized/cosmetic/head/ladycat_plushy_display"
+    },
+    "cosmetic.head.mira_plushy": {
+      "textures": "textures/crystalized/cosmetic/head/mira_plushy_display"
+    },
+    "cosmetic.head.mish_plushy": {
+      "textures": "textures/crystalized/cosmetic/head/mish_plushy_display"
+    },
+    "cosmetic.head.mrickets_plushy": {
+      "textures": "textures/crystalized/cosmetic/head/mrickets_plushy_display"
+    },
+    "cosmetic.head.zane_plushy": {
+      "textures": "textures/crystalized/cosmetic/head/zane_plushy_display"
+    },
 
     "shardcorenexus3_blue": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue"
+      "textures": "textures/crystalized/shardcore_nexus/_display/blue"
     },
     "shardcorenexus3_blue_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_blue_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/blue_attention"
     },
     "shardcorenexus3_gray": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray"
+      "textures": "textures/crystalized/shardcore_nexus/_display/gray"
     },
     "shardcorenexus3_gray_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_gray_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/gray_attention"
     },
     "shardcorenexus3_purple": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple"
+      "textures": "textures/crystalized/shardcore_nexus/_display/purple"
     },
     "shardcorenexus3_purple_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_purple_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/purple_attention"
     },
     "shardcorenexus3_augustify": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify"
+      "textures": "textures/crystalized/shardcore_nexus/_display/augustify"
     },
     "shardcorenexus3_augustify_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_augustify_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/augustify_attention"
     },
     "shardcorenexus3_abby1": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1"
+      "textures": "textures/crystalized/shardcore_nexus/_display/abby1"
     },
     "shardcorenexus3_abby1_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_abby1_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/abby1_attention"
     },
     "shardcorenexus3_shadow1": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1"
+      "textures": "textures/crystalized/shardcore_nexus/_display/shadow1"
     },
     "shardcorenexus3_shadow1_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_shadow1_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/shadow1_attention"
     },
     "shardcorenexus3_ls": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_ls"
+      "textures": "textures/crystalized/shardcore_nexus/_display/ls"
     },
     "shardcorenexus3_ls_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_ls_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/ls_attention"
     },
     "shardcorenexus3_mite": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_mite"
+      "textures": "textures/crystalized/shardcore_nexus/_display/mite"
     },
     "shardcorenexus3_mite_attention": {
-      "textures": "textures/crystalized/shardcore_nexus/_display/shardcorenexus3_mite_attention"
+      "textures": "textures/crystalized/shardcore_nexus/_display/mite_attention"
+    },
+    "shardcorenexus3_yinyang": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/yinyang"
+    },
+    "shardcorenexus3_yinyang_attention": {
+      "textures": "textures/crystalized/shardcore_nexus/_display/yinyang_attention"
     }
 
   }

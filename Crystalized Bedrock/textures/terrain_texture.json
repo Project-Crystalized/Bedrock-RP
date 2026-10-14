@@ -124,6 +124,13 @@
 		},
 		"underwater_tnt": {
 			"textures": "textures/crystalized/block/underwater_tnt"
+		},
+
+		"dirt_path_slab": {
+			"textures": "textures/crystalized/block/dirt_path_slab"
+		},
+		"podzol_slab": {
+			"textures": "textures/crystalized/block/podzol_slab"
 		}
 	}
 }

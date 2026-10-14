@@ -78,7 +78,7 @@
 					"place_air": false,
 					"material_instances": {
 						"*": {
-							"texture": "packed_ice",
+							"texture": "ice_packed",
 							"render_method": "alpha_test",
 							"face_dimming": true,
 							"ambient_occlusion": true

@@ -321,6 +321,70 @@
 				"bedrock_options": {
 					"icon":"cosmetic.head.sheep_hat"
 				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/antlers",
+				"bedrock_identifier":"crystalized:cosmetic_head_antlers",
+				"bedrock_options": {
+					"icon":"cosmetic.head.antlers"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/bear_ears",
+				"bedrock_identifier":"crystalized:cosmetic_head_bear_ears",
+				"bedrock_options": {
+					"icon":"cosmetic.head.bear_ears"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/devil_horns",
+				"bedrock_identifier":"crystalized:cosmetic_head_devil_horns",
+				"bedrock_options": {
+					"icon":"cosmetic.head.devil_horns"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/ladycat_plushy",
+				"bedrock_identifier":"crystalized:cosmetic_head_ladycat_plushy",
+				"bedrock_options": {
+					"icon":"cosmetic.head.ladycat_plushy"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/mira_plushy",
+				"bedrock_identifier":"crystalized:cosmetic_head_mira_plushy",
+				"bedrock_options": {
+					"icon":"cosmetic.head.mira_plushy"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/mish_plushy",
+				"bedrock_identifier":"crystalized:cosmetic_head_mish_plushy",
+				"bedrock_options": {
+					"icon":"cosmetic.head.mish_plushy"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/mrickets_plushy",
+				"bedrock_identifier":"crystalized:cosmetic_head_mrickets_plushy",
+				"bedrock_options": {
+					"icon":"cosmetic.head.mrickets_plushy"
+				}
+			},
+			{
+				"type":"definition",
+				"model":"crystalized:cosmetic/head/zane_plushy",
+				"bedrock_identifier":"crystalized:cosmetic_head_zane_plushy",
+				"bedrock_options": {
+					"icon":"cosmetic.head.zane_plushy"
+				}
 			}
 		]
 	}
